@@ -1,0 +1,372 @@
+ville,departement,region,nombre_etoiles,latitude,longitude
+Alquines,Pas-de-calais,Hauts-de-France,5,50.739662,1.991761
+Saint-Franc,Savoie,Auvergne-Rhône-Alpes,5,45.491213,5.745453
+Beaurepaire,Isere,Auvergne-Rhône-Alpes,5,45.337544,5.054503
+Yquebeuf,Seine-maritime,Normandie,5,49.59706,1.255093
+Lagarde-d'Apt,Vaucluse,Provence-Alpes-Côte d'Azur,5,43.983463,5.472064
+Moncé-en-Belin,Sarthe,Pays de la Loire,5,47.894344,0.197259
+La Bauche,Charente-maritime,Nouvelle Aquitaine,5,45.746288,-0.5999439999999999
+Graveron-Sémerville,Eure,Normandie,5,49.093639,0.973488
+Couzou,Lot,Occitanie,4,44.765204,1.616124
+Soulaines-sur-Aubance,Maine-et-loire,Pays de la Loire,4,47.364063,-0.522894
+Cusy,Haute-savoie,Auvergne-Rhône-Alpes,4,45.765061,6.029434
+Vachères,Haute-loire,Auvergne-Rhône-Alpes,4,45.266155,4.210806
+Saint-André-Lachamp,Ardeche,Auvergne-Rhône-Alpes,4,44.504842,4.162366
+Saint-Georges-Nigremont,Creuse,Nouvelle Aquitaine,4,45.836644,2.263091
+Bosselshausen,Bas-rhin,Grand-Est,4,48.804496,7.509094
+Classun,Landes,Nouvelle Aquitaine,4,43.710365,-0.4148719999999999
+Courcoury,Charente-maritime,Nouvelle Aquitaine,4,45.711933,-0.5810069999999999
+Fussey,Cote-d'or,Bourgogne-Franche-Comté,4,47.118419,4.834775
+Talensac,Ille-et-vilaine,Bretagne,4,48.108377,-1.926135
+Lentillac-du-Causse,Lot,Occitanie,4,44.561992,1.638737
+La Couyère,Calvados,Normandie,4,48.82347,-0.973985
+Bignoux,Vienne,Nouvelle Aquitaine,4,46.806326,0.597696
+Lentillac-Saint-Blaise,Lot,Occitanie,4,44.590287,2.120619
+Beauregard,Hautes-alpes,Provence-Alpes-Côte d'Azur,4,44.545936,6.074481
+Chérancé,Sarthe,Pays de la Loire,4,48.286368,0.173706
+Boisset-Saint-Priest,Loire,Auvergne-Rhône-Alpes,4,45.512149,4.104045
+Nantheuil,Dordogne,Nouvelle Aquitaine,4,45.413179,0.943981
+Rougon,Alpes-de-haute-provence,Provence-Alpes-Côte d'Azur,4,43.798152,6.401464
+Mûrs-Erigné,Maine-et-loire,Pays de la Loire,4,47.394652,-0.5541
+Segrois,Cote-d'or,Bourgogne-Franche-Comté,4,47.158929,4.891607
+Curel,Alpes-de-haute-provence,,4,44.176254,5.660644
+La Guyonnière,Vendee,Pays de la Loire,4,46.964658,-1.250028
+Millevaches,Correze,Nouvelle Aquitaine,4,45.640904,2.09495
+Lacour-d'Arcenay,Cote-d'or,Bourgogne-Franche-Comté,4,47.362092,4.252087
+Péronne,Somme,Hauts-de-France,4,49.932121,2.935985
+Cabrerets,Lot,Occitanie,4,44.505455,1.6539389999999998
+Miribel-Lanchâtre,Isere,Auvergne-Rhône-Alpes,4,44.974385,5.619862
+La Barre,Vendee,Pays de la Loire,4,46.789308,-1.141159
+Mantet,Pyrenees-orientales,Occitanie,4,42.476397,2.30662
+Marillet,Vendee,,4,46.566536,-0.635931
+Saint-Bazile-de-Meyssac,Correze,Nouvelle Aquitaine,4,45.050168,1.725951
+Saint-Agnant-près-Crocq,Creuse,Nouvelle Aquitaine,4,45.802956,2.349807
+La Chapelle-aux-Lys,Vendee,,4,46.628917,-0.658422
+Conteville-lès-Boulogne,Pas-de-calais,Hauts-de-France,4,50.744459,1.731428
+Loubaut,Ariege,Occitanie,4,43.18799,1.285034
+Leigneux,Loire,Auvergne-Rhône-Alpes,3,45.751087,3.975032
+Épernay-sous-Gevrey,Cote-d'or,Bourgogne-Franche-Comté,3,47.179959,5.032354
+Charentilly,Indre-et-loire,Centre-Val de Loire,3,47.469413,0.608699
+La Croisille-sur-Briance,Haute-vienne,Nouvelle Aquitaine,3,45.630203,1.581676
+Saint-Maurice,Val-de-marne,Ile-de-France,3,48.818023,2.433454
+Pittefaux,Pas-de-calais,Hauts-de-France,3,50.75652,1.683023
+Aubenas-les-Alpes,Alpes-de-haute-provence,Provence-Alpes-Côte d'Azur,3,43.930829,5.680347
+Saint-Philibert,Cote-d'or,Bourgogne-Franche-Comté,3,47.20465,5.010822
+Glisolles,Eure,Normandie,3,48.982885,1.020173
+Marigny,Cote-d'or,Bourgogne-Franche-Comté,3,47.870628,4.614931
+Cras-sur-Reyssouze,Ain,Auvergne-Rhône-Alpes,3,46.307444,5.165016
+Guitera-les-Bains,Corse-du-sud,Corse,3,41.913501,9.085794
+Trégueux,Cotes-d'armor,Bretagne,3,48.490113,-2.739271
+Saché,Indre-et-loire,Centre-Val de Loire,3,47.246461,0.541902
+Les Garennes sur Loire,Maine-et-loire,Pays de la Loire,3,47.406908,-0.476601
+Montagnieu,Ain,Auvergne-Rhône-Alpes,3,45.793185,5.46681
+Bonnencontre,Puy-de-dome,Auvergne-Rhône-Alpes,3,45.773985,3.524214
+Chavagne,Loire-atlantique,Pays de la Loire,3,47.463981,-1.486877
+Nanteau-sur-Essonne,,,3,48.315981,2.415924
+Neuvic-Entier,Haute-vienne,Nouvelle Aquitaine,3,45.721521,1.610193
+Saint-Pierre-de-Frugie,Dordogne,Nouvelle Aquitaine,3,45.572696,0.998347
+Saint-Goussaud,Creuse,Nouvelle Aquitaine,3,46.03994,1.577573
+Brézins,Isere,Auvergne-Rhône-Alpes,3,45.348848,5.306584
+Brochon,Cote-d'or,Bourgogne-Franche-Comté,3,47.238675,4.969781
+Eygalayes,Drome,Auvergne-Rhône-Alpes,3,44.238777,5.607203
+Saint-Menges,Ardennes,Grand-Est,3,49.73814,4.925832
+Bourgueil,Indre-et-loire,Centre-Val de Loire,3,47.281177,0.168367
+Revel,Haute-garonne,Occitanie,3,43.457915,2.003297
+Le Bastit,Aveyron,Occitanie,3,44.20863,1.970195
+Hardinghen,Pas-de-calais,Hauts-de-France,3,50.799177,1.820658
+Chassillé,Sarthe,Pays de la Loire,3,48.019718,-0.1167619999999999
+Saint-Pierre-Avez,Hautes-alpes,Provence-Alpes-Côte d'Azur,3,44.256636,5.760907
+Chagnon,Loire,Auvergne-Rhône-Alpes,3,45.533857,4.55298
+Montmorin,Hautes-alpes,,3,44.451062,5.541548
+Breuil-Barret,Vendee,Pays de la Loire,3,46.652449,-0.683569
+Saint-Melaine-sur-Aubance,Maine-et-loire,Pays de la Loire,3,47.369439,-0.494067
+Carlucet,Lot,Occitanie,3,44.721033,1.612158
+Saint-Étienne-Lardeyrol,Haute-loire,Auvergne-Rhône-Alpes,3,45.070974,4.000032
+Saint-Genès-du-Retz,Puy-de-dome,Auvergne-Rhône-Alpes,3,46.061268,3.213436
+Labastide-du-Vert,Lot,Occitanie,3,44.51077,1.261223
+Flaujac-Poujols,Lot,Occitanie,3,44.405321,1.49933
+Mirabeau,Alpes-de-haute-provence,Provence-Alpes-Côte d'Azur,3,44.062313,6.089962
+Lompnieu,Ain,Auvergne-Rhône-Alpes,3,45.960879,5.660354
+Fontaines-en-Sologne,Loir-et-cher,Centre-Val de Loire,3,47.509253,1.550472
+Saint-Étienne-du-Vauvray,Eure,Normandie,3,49.242311,1.219001
+Saint-Méard,Haute-vienne,Nouvelle Aquitaine,3,45.66489,1.54739
+Cosswiller,Bas-rhin,Grand-Est,3,48.630291,7.39757
+Séreilhac,Haute-vienne,Nouvelle Aquitaine,3,45.768705,1.081343
+Chazelles-sur-Lavieu,Loire,Auvergne-Rhône-Alpes,3,45.538343,3.999486
+La Chamba,Loire,Auvergne-Rhône-Alpes,3,45.754567,3.756397
+Revest-les-Roches,Alpes-maritimes,Provence-Alpes-Côte d'Azur,3,43.880102,7.1562
+Leulinghen-Bernes,Pas-de-calais,Hauts-de-France,3,50.830465,1.717912
+Les Pieux,Manche,Normandie,3,49.512529,-1.807678
+Houldizy,Ardennes,Grand-Est,3,49.810229,4.668869
+Saint-Victor-sur-Rhins,Loire,Auvergne-Rhône-Alpes,3,46.003805,4.280623
+Choue,Loir-et-cher,Centre-Val de Loire,3,47.997744,0.928238
+La Vacherie,Lozere,Occitanie,3,44.519168,3.477406
+Cremps,Lot,Occitanie,3,44.388627,1.598962
+Vernou-la-Celle-sur-Seine,Seine-et-marne,Ile-de-France,3,48.387498,2.846017
+Rilhac-Lastours,Haute-vienne,Nouvelle Aquitaine,3,45.64866,1.120178
+Écommoy,Sarthe,Pays de la Loire,3,47.827688,0.27299
+Bayenghem-lès-Seninghem,Pas-de-calais,Hauts-de-France,3,50.699934,2.075928
+Poncey-lès-Athée,Cote-d'or,Bourgogne-Franche-Comté,3,47.239826,5.387701
+Ressons-le-Long,Aisne,Hauts-de-France,3,49.387512,3.14733
+Clénay,Cote-d'or,Bourgogne-Franche-Comté,3,47.403521,5.120414
+Croze,Vaucluse,Provence-Alpes-Côte d'Azur,3,43.68793,5.450329
+Barges,Haute-loire,Auvergne-Rhône-Alpes,3,44.83597,3.89335
+Peyrelevade,Dordogne,Nouvelle Aquitaine,3,44.865604,0.528937
+La Chapelle-Vendômoise,Loir-et-cher,Centre-Val de Loire,3,47.670613,1.238199
+Reulle-Vergy,Cote-d'or,Bourgogne-Franche-Comté,3,47.185908,4.893876
+Campagna-de-Sault,Aude,Occitanie,3,42.75946,2.053088
+Châteauvieux,Creuse,Nouvelle Aquitaine,3,46.190642,1.863661
+Pageas,Haute-vienne,Nouvelle Aquitaine,3,45.67721,0.999707
+Châtenoy,Loiret,Centre-Val de Loire,3,47.918141,2.396204
+Nouaillé-Maupertuis,Vienne,Nouvelle Aquitaine,3,46.508571,0.413388
+Sèvres-Anxaumont,Vienne,Nouvelle Aquitaine,3,46.569166,0.4640669999999999
+Saint-Pons,Alpes-de-haute-provence,Provence-Alpes-Côte d'Azur,3,44.350016,6.379999
+Sornac,Correze,Nouvelle Aquitaine,3,45.666858,2.192141
+Maillet,Indre,Centre-Val de Loire,3,46.572515,1.678578
+Lay,Loire,Auvergne-Rhône-Alpes,3,45.954968,4.217509
+Pouru-aux-Bois,Ardennes,Grand-Est,3,49.705756,5.090925
+Sceaux-sur-Huisne,Sarthe,Pays de la Loire,3,48.104588,0.582664
+Sigoyer,Hautes-alpes,Provence-Alpes-Côte d'Azur,3,44.477132,5.9755
+Saint-Sylvain,Calvados,Normandie,3,49.055956,-0.2173409999999999
+Arçay,Cher,Centre-Val de Loire,3,46.948314,2.33998
+Boigneville,Essonne,Ile-de-France,3,48.334646,2.371186
+Vabre,Tarn,Occitanie,3,43.692218,2.425833
+Balaives-et-Butz,Ardennes,Grand-Est,3,49.672722,4.733635
+Saint-Hostien,Haute-loire,Auvergne-Rhône-Alpes,3,45.071443,4.047059
+Saint-Genès-Champanelle,Puy-de-dome,Auvergne-Rhône-Alpes,3,45.720181,3.017998
+Cizay-la-Madeleine,Maine-et-loire,Pays de la Loire,3,47.188148,-0.187529
+Roggenhouse,Haut-rhin,Grand-Est,3,47.88951,7.470169
+Écordal,Ardennes,Grand-Est,3,49.527413,4.579588
+Leschères,Jura,Bourgogne-Franche-Comté,3,46.451535,5.826371
+Campagne-lès-Guines,Pas-de-calais,Hauts-de-France,3,50.839412,1.903313
+Chaumont d'Anjou,Maine-et-loire,Pays de la Loire,3,47.55189,-0.23635
+Giat,Puy-de-dome,Auvergne-Rhône-Alpes,3,45.801769,2.466984
+Treize-Vents,Correze,Nouvelle Aquitaine,3,45.268,1.7857189999999998
+Le Plessis Grammoire,Maine-et-loire,Pays de la Loire,3,47.500173,-0.43081
+Le Brignon,Haute-loire,Auvergne-Rhône-Alpes,3,44.935123,3.879717
+Belmont-Sainte-Foi,Lot,Occitanie,3,44.281905,1.6316739999999998
+Novion-Porcien,Ardennes,Grand-Est,3,49.599462,4.422777
+Cayres,Haute-loire,Auvergne-Rhône-Alpes,3,44.924877,3.806046
+Puyjourdes,Lot,Occitanie,3,44.406941,1.859739
+Lissac,Ariege,Occitanie,3,43.268709,1.510415
+Saint-Pierre-de-Genebroz,Savoie,Auvergne-Rhône-Alpes,3,45.452265,5.753769
+Quesques,Pas-de-calais,Hauts-de-France,3,50.703265,1.931728
+Douzens,Aude,Occitanie,2,43.185572,2.596815
+Montaigut-le-Blanc,Creuse,Nouvelle Aquitaine,2,46.121057,1.7347739999999998
+Mérindol,Vaucluse,Provence-Alpes-Côte d'Azur,2,43.755152,5.202624
+Verteuil-sur-Charente,Charente,Nouvelle Aquitaine,2,45.981646,0.228785
+Périers,Manche,Normandie,2,49.185635,-1.4077
+Saint-Denis-du-Payré,Vendee,Pays de la Loire,2,46.406681,-1.269142
+Saint-Yrieix-le-Déjalat,Correze,Nouvelle Aquitaine,2,45.45613,1.971283
+Reclinghem,Pas-de-calais,Hauts-de-France,2,50.572296,2.175524
+Wismes,Pas-de-calais,Hauts-de-France,2,50.653232,2.071141
+Lérigneux,Loire,Auvergne-Rhône-Alpes,2,45.600784,3.964691
+Saint-Julien-Chapteuil,Haute-loire,Auvergne-Rhône-Alpes,2,45.034398,4.060336
+Le Poët-Sigillat,Drome,Auvergne-Rhône-Alpes,2,44.368659,5.316882
+Villé,Bas-rhin,Grand-Est,2,48.342737,7.303237
+Le-Grand-Village-Plage,Charente-maritime,Nouvelle Aquitaine,2,45.859593,-1.237092
+Magny-lès-Aubigny,Cote-d'or,Bourgogne-Franche-Comté,2,47.110698,5.176173
+Saint-Jeannet,Tarn,Occitanie,2,43.922082,1.735087
+Anchamps,Ardennes,Grand-Est,2,49.93146,4.67423
+Saint-Georges-Haute-Ville,Loire,Auvergne-Rhône-Alpes,2,45.553629,4.098462
+Lézigneux,Loire,Auvergne-Rhône-Alpes,2,45.566604,4.060255
+Le Grand-Bourg,Creuse,Nouvelle Aquitaine,2,46.159641,1.644457
+Laprade,Lot-et-garonne,Nouvelle Aquitaine,2,44.182453,0.297183
+Gourdon,Lot,Occitanie,2,44.736817,1.381841
+Châteldon,Puy-de-dome,Auvergne-Rhône-Alpes,2,45.976533,3.519209
+La Possession,Reunion,,2,-20.99646,55.409766
+Vitrimont,Meurthe-et-moselle,Grand-Est,2,48.60061,6.439112
+Cellieu,Loire,Auvergne-Rhône-Alpes,2,45.522329,4.539845
+Ajoncourt,,Grand-Est,2,48.844314,6.288818
+Le Juch,Finistere,Bretagne,2,48.065358,-4.255706
+Val d'Oronaye,Alpes-de-haute-provence,Provence-Alpes-Côte d'Azur,2,44.476169,6.798476
+Montval-sur-Loir,Sarthe,Pays de la Loire,2,47.693176,0.417263
+Saint-Claude-de-Diray,Loir-et-cher,Centre-Val de Loire,2,47.614637,1.4158
+La Gresle,Loire,Auvergne-Rhône-Alpes,2,46.074949,4.280987
+La Chapelle-Heulin,Loire-atlantique,Pays de la Loire,2,47.175875,-1.340764
+La Tour-d'Aigues,Vaucluse,Provence-Alpes-Côte d'Azur,2,43.725116,5.547809
+Jouy-Mauvoisin,Yvelines,Ile-de-France,2,48.974512,1.647617
+Craponne-sur-Arzon,Haute-loire,Auvergne-Rhône-Alpes,2,45.330673,3.847666
+Calès,Haute-garonne,Occitanie,2,43.441872,2.008128
+Esbarres,Cote-d'or,Bourgogne-Franche-Comté,2,47.093773,5.213735
+Cobrieux,Nord,Hauts-de-France,2,50.543413,3.228182
+Saint-Brice-sur-Vienne,Haute-vienne,Nouvelle Aquitaine,2,45.879038,0.952404
+Prévocourt,Moselle,Grand-Est,2,48.914243,6.427071
+Auzat-la-Combelle,Puy-de-dome,Auvergne-Rhône-Alpes,2,45.452293,3.317286
+Lure,Haute-saone,Bourgogne-Franche-Comté,2,47.682941,6.495943
+Concoret,Morbihan,Bretagne,2,48.063816,-2.207172
+Saint-Bonnet-Elvert,Correze,Nouvelle Aquitaine,2,45.16101,1.902894
+Saint-Pierre-du-Lorouër,Sarthe,Pays de la Loire,2,47.80529,0.5214219999999999
+Piégut-Pluviers,Dordogne,Nouvelle Aquitaine,2,45.621703,0.688472
+Neuvy,Loir-et-cher,Centre-Val de Loire,2,47.563002,1.602218
+Espagnac,Correze,Nouvelle Aquitaine,2,45.229385,1.896452
+Castillon,Gard,Occitanie,2,44.289436,4.133638
+La Meignanne,Mayenne,Pays de la Loire,2,47.792303,-0.503072
+Uvernet-Fours,Alpes-de-haute-provence,Provence-Alpes-Côte d'Azur,2,44.360362,6.6249
+Sanghen,Pas-de-calais,Hauts-de-France,2,50.775692,1.901878
+Ris,Hautes-pyrenees,Occitanie,2,42.886767,0.397211
+Saint-Vallier,,Auvergne-Rhône-Alpes,2,45.177773,4.814306
+Craintilleux,Loire,Auvergne-Rhône-Alpes,2,45.582846,4.233706
+Ouchamps,Loir-et-cher,Centre-Val de Loire,2,47.471758,1.307157
+La Terrasse,Loire,Auvergne-Rhône-Alpes,2,45.45245,4.284493
+Barret-sur-Méouge,Hautes-alpes,Provence-Alpes-Côte d'Azur,2,44.261853,5.732336
+Quelmes,Pas-de-calais,Hauts-de-France,2,50.732672,2.136124
+Bouray-sur-Juine,Essonne,Ile-de-France,2,48.519564,2.297199
+Saint-Bonnet-le-Courreau,Loire,Auvergne-Rhône-Alpes,2,45.659496,3.943881
+Mesland,Loir-et-cher,Centre-Val de Loire,2,47.509425,1.121249
+Saint-Gence,Haute-vienne,Nouvelle Aquitaine,2,45.920958,1.1367
+Les Ayvelles,Ardennes,Grand-Est,2,49.720933,4.756061
+Mirefleurs,Puy-de-dome,Auvergne-Rhône-Alpes,2,45.692946,3.223579
+Aulnat,Puy-de-dome,Auvergne-Rhône-Alpes,2,45.798401,3.167361
+Holtzheim,Bas-rhin,Grand-Est,2,48.558012,7.639893
+Nordhouse,Bas-rhin,Grand-Est,2,48.447708,7.672131999999999
+Vineuil,Loir-et-cher,Centre-Val de Loire,2,47.579817,1.371593
+Montaulieu,Drome,Auvergne-Rhône-Alpes,2,44.357077,5.223526
+Beynat,Correze,Nouvelle Aquitaine,2,45.123976,1.722997
+Vercoiran,Drome,Auvergne-Rhône-Alpes,2,44.300513,5.345445
+Planfoy,Loire,Auvergne-Rhône-Alpes,2,45.382256,4.440119
+Lalbenque,Lot,Occitanie,2,44.338394,1.5437539999999998
+Moigny-sur-École,Essonne,Ile-de-France,2,48.432236,2.456541
+Battenheim,Haut-rhin,Grand-Est,2,47.818952,7.381252
+Seigy,Loir-et-cher,Centre-Val de Loire,2,47.254237,1.397327
+Belleneuve,Cote-d'or,Bourgogne-Franche-Comté,2,47.356653,5.265668
+Bernin,Isere,Auvergne-Rhône-Alpes,2,45.268379,5.864624
+Allègre,Haute-loire,Auvergne-Rhône-Alpes,2,45.199257,3.710665
+Blavozy,Haute-loire,Auvergne-Rhône-Alpes,2,45.056772,3.976911
+Wirwignes,Pas-de-calais,Hauts-de-France,2,50.684617,1.759783
+Aujols,Aveyron,Occitanie,2,44.59662,2.374634
+Larnagol,Lot,Occitanie,2,44.478031,1.772797
+Chauconin-Neufmontiers,Seine-et-marne,Ile-de-France,2,48.975733,2.838811
+Saint-Bonnet-Briance,Haute-vienne,Nouvelle Aquitaine,2,45.707172,1.475577
+Gourvillette,Charente-maritime,Nouvelle Aquitaine,2,45.889462,-0.223399
+Albon-d'Ardèche,Ardeche,Auvergne-Rhône-Alpes,2,44.820486,4.426989
+Mallièvre,Vendee,Pays de la Loire,2,46.91063,-0.864261
+Bressolles,Haute-loire,Auvergne-Rhône-Alpes,2,45.34232,3.151794
+Lamothe-Goas,Gers,Occitanie,2,43.864388,0.557978
+Concots,Lot,Occitanie,2,44.400894,1.643867
+Bosmie-l'Aiguille,Haute-vienne,Nouvelle Aquitaine,2,45.7673,1.215241
+Bonnelles,Yvelines,Ile-de-France,2,48.618418,2.027233
+Baincthun,Pas-de-calais,Hauts-de-France,2,50.709822,1.680009
+Signy-l'Abbaye,Ardennes,Grand-Est,2,49.697457,4.419957
+Rougeries,Aisne,Hauts-de-France,2,49.80294,3.785682
+Reipertswiller,Bas-rhin,Grand-Est,2,48.931392,7.464054
+Callen,Landes,Nouvelle Aquitaine,2,44.297573,-0.476605
+Chamblanc,Cote-d'or,Bourgogne-Franche-Comté,2,47.019319,5.150101
+La Ricamarie,Loire,Auvergne-Rhône-Alpes,2,45.403022,4.363951
+Beuvrequen,Pas-de-calais,Hauts-de-France,2,50.802092,1.664831
+Salérans,Hautes-alpes,,2,44.242744,5.703852
+Salperwick,Pas-de-calais,Hauts-de-France,2,50.771883,2.231669
+Chaptelat,Haute-vienne,Nouvelle Aquitaine,2,45.908486,1.25841
+Peyrilhac,Haute-vienne,Nouvelle Aquitaine,2,45.948865,1.135756
+Saint-Jory-de-Chalais,Dordogne,Nouvelle Aquitaine,2,45.497911,0.898575
+Bas-et-Lezat,Puy-de-dome,Auvergne-Rhône-Alpes,2,46.024152,3.299901
+Saint-Christophe-sur-Dolaison,Haute-loire,Auvergne-Rhône-Alpes,2,44.99681,3.819772
+La Capelle-lès-Boulogne,Pas-de-calais,Hauts-de-France,2,50.73074,1.706324
+La Ferté-Imbault,Loir-et-cher,Centre-Val de Loire,2,47.38575,1.955484
+Méry-sur-Cher,Cher,Centre-Val de Loire,2,47.245583,1.987294
+Estoublon,Alpes-de-haute-provence,Provence-Alpes-Côte d'Azur,2,43.94201,6.170699
+Beauvoir-sur-Mer,Vendee,Pays de la Loire,1,46.915489,-2.04381
+Bouesse,Indre,Centre-Val de Loire,1,46.615835,1.686675
+Calvignac,Lot,Occitanie,1,44.504112,1.143412
+Quesnoy-sur-Deûle,Nord,Hauts-de-France,1,50.712341,2.998587
+Haguenau,Bas-rhin,Grand-Est,1,48.8162,7.787039
+Tresses,Gironde,Nouvelle Aquitaine,1,44.848552,-0.463858
+Vigeois,Correze,Nouvelle Aquitaine,1,45.378989,1.516516
+Coussac-Bonneval,Haute-vienne,Nouvelle Aquitaine,1,45.510464,1.323419
+Faucon-de-Barcelonnette,Alpes-de-haute-provence,Provence-Alpes-Côte d'Azur,1,44.392868,6.677254
+Enchastrayes,Alpes-de-haute-provence,Provence-Alpes-Côte d'Azur,1,44.36706,6.694421
+Liocourt,Moselle,Grand-Est,1,48.909407,6.343456
+Saint-Privat-des-Vieux,Gard,Occitanie,1,44.143297,4.128724
+Montendre,Charente-maritime,Nouvelle Aquitaine,1,45.284674,-0.40799
+Arvieu,Aveyron,Occitanie,1,44.189986,2.66099
+Saint-Cézaire-sur-Siagne,,Provence-Alpes-Côte d'Azur,1,43.648325,6.791988
+Saint-Barthélemy-d'Anjou,Maine-et-loire,Pays de la Loire,1,47.466724,-0.495104
+Saumur,Maine-et-loire,Pays de la Loire,1,47.258651,-0.079223
+Jumilhac-le-Grand,Dordogne,Nouvelle Aquitaine,1,45.493657,1.062671
+Roscoff,Finistere,Bretagne,1,48.72568,-3.985908
+Sainte-Marie-de-Ré,Charente-maritime,Nouvelle Aquitaine,1,46.148976,-1.311357
+Allassac,Correze,Nouvelle Aquitaine,1,45.257751,1.475112
+Bourgheim,Bas-rhin,Grand-Est,1,48.418516,7.494893
+Rochechouart,Haute-vienne,Nouvelle Aquitaine,1,45.822521,0.820506
+Charmois-l'Orgueilleux,Vosges,Grand-Est,1,48.102933,6.26957
+Sénaillac-Lauzès,Lot,Occitanie,1,44.601751,1.650381
+Saint-Arnoult-en-Yvelines,Yvelines,Ile-de-France,1,48.570894,1.940003
+Dommery,Ardennes,Grand-Est,1,49.675254,4.473352
+Saint-Romain-Lachalm,Haute-loire,Auvergne-Rhône-Alpes,1,45.265597,4.333808
+Ungersheim,Haut-rhin,Grand-Est,1,47.878584,7.304447
+Barcelonnette,Alpes-de-haute-provence,Provence-Alpes-Côte d'Azur,1,44.38561,6.651649
+Sauzon,Morbihan,Bretagne,1,47.370629,-3.223884
+Les Orres,Hautes-alpes,Provence-Alpes-Côte d'Azur,1,44.513278,6.550337
+Cazalis,Guadeloupe,,1,15.922987,-61.290779
+Le Poinçonnet,Indre,Centre-Val de Loire,1,46.762982,1.718495
+Limogne-en-Quercy,Lot,Occitanie,1,44.396968,1.769531
+Crolles,Isere,Auvergne-Rhône-Alpes,1,45.284151,5.882028
+Pessac,Gironde,Nouvelle Aquitaine,1,44.805275,-0.6333559999999999
+Niederbronn-les-Bains,Bas-rhin,Grand-Est,1,48.949791,7.643423999999999
+Peisey-Nancroix,Savoie,Auvergne-Rhône-Alpes,1,45.545799,6.755017
+Lavans-lès-Saint-Claude,Jura,Bourgogne-Franche-Comté,1,46.385966,5.781312
+Martignas-sur-Jalle,Gironde,Nouvelle Aquitaine,1,44.840159,-0.7762319999999999
+Pont-du-Château,Puy-de-dome,Auvergne-Rhône-Alpes,1,45.798255,3.247179
+Quéven,Morbihan,Bretagne,1,47.788221,-3.416184
+Lanester,Morbihan,Bretagne,1,47.762611,-3.339433
+Saint-Joseph,Reunion,,1,-21.292154,55.647459
+Bracieux,Loir-et-cher,Centre-Val de Loire,1,47.547853,1.541447
+Crocq,Creuse,Nouvelle Aquitaine,1,45.867892,2.367088
+Menars,Loir-et-cher,Centre-Val de Loire,1,47.641544,1.408341
+Crachier,Isere,Auvergne-Rhône-Alpes,1,45.547776,5.22511
+Murles,Herault,Occitanie,1,43.688482,3.745256
+Vendeuil-Caply,Oise,Hauts-de-France,1,49.606613,2.289233
+Cénevières,Lot,Occitanie,1,44.462432,1.746735
+Marchaux,Doubs,Bourgogne-Franche-Comté,1,47.323008,6.131939
+Kingersheim,Haut-rhin,Grand-Est,1,47.790837,7.337469
+Felletin,Creuse,Nouvelle Aquitaine,1,45.882843,2.172214
+Le Taillan-Médoc,Gironde,Nouvelle Aquitaine,1,44.904107,-0.6701969999999999
+Waville,Meurthe-et-moselle,Grand-Est,1,49.009755,5.949096
+Buis-les-Baronnies,Drome,Auvergne-Rhône-Alpes,1,44.274995,5.274202
+Aixe-sur-Vienne,Haute-vienne,Nouvelle Aquitaine,1,45.795739,1.135774
+Sucé-sur-Erdre,Loire-atlantique,Pays de la Loire,1,47.344477,-1.529521
+Mende,Lozere,Occitanie,1,44.517936,3.499516
+Châtel-Guyon,Puy-de-dome,Auvergne-Rhône-Alpes,1,45.921875,3.063224
+Lacelle,Correze,Nouvelle Aquitaine,1,45.641115,1.825339
+La Verpillière,Isere,Auvergne-Rhône-Alpes,1,45.636757,5.142649
+Mécleuves,Moselle,Grand-Est,1,49.041938,6.269859
+Saint-Saturnin-lès-Apt,Vaucluse,Provence-Alpes-Côte d'Azur,1,43.94402,5.383124
+Joucas,Vaucluse,Provence-Alpes-Côte d'Azur,1,43.925204,5.251541
+Aouste-sur-Sye,Drome,Auvergne-Rhône-Alpes,1,44.715149,5.055786
+Souzy-la-Briche,Essonne,Ile-de-France,1,48.528485,2.148092
+Bullion,Yvelines,Ile-de-France,1,48.621756,1.995963
+Thiébauménil,Meurthe-et-moselle,Grand-Est,1,48.578967,6.622245
+Prény,Meurthe-et-moselle,Grand-Est,1,48.977985,5.996506
+Roquettes,Haute-garonne,Occitanie,1,43.498774,1.366002
+Le Bois-Plage-en-Ré,Charente-maritime,Nouvelle Aquitaine,1,46.185511,-1.393437
+Péone,Alpes-maritimes,Provence-Alpes-Côte d'Azur,1,44.117242,6.908333
+Trélazé,Maine-et-loire,Pays de la Loire,1,47.445935,-0.4671809999999999
+Labaroche,Haut-rhin,Grand-Est,1,48.109729,7.192757
+Thiat,Haute-vienne,Nouvelle Aquitaine,1,46.265846,0.973007
+Le Poët-en-Percip,Drome,Auvergne-Rhône-Alpes,1,44.254501,5.391155
+Sainte-Feyre,Creuse,Nouvelle Aquitaine,1,46.138226,1.914453
+Salleboeuf,Gironde,Nouvelle Aquitaine,1,44.84159,-0.397563
+Serres-Castet,Pyrenees-atlantiques,Nouvelle Aquitaine,1,43.386234,-0.3549
+Nieul,Haute-vienne,Nouvelle Aquitaine,1,45.924206,1.170148
+Manonviller,Meurthe-et-moselle,Grand-Est,1,48.582632,6.649643
+Aulon,Creuse,Nouvelle Aquitaine,1,46.081827,1.6903800000000002
+Sainte-Florine,Haute-loire,Auvergne-Rhône-Alpes,1,45.404569,3.317013
+Sponville,Meurthe-et-moselle,Grand-Est,1,49.071956,5.832121
+Manhoué,,Grand-Est,1,48.824947,6.338036
+Saint-Aignan,Loir-et-cher,Centre-Val de Loire,1,47.268343,1.375741
+Entre-Deux,Reunion,,1,-21.210667,55.486919
+Forcalquier,Alpes-de-haute-provence,Provence-Alpes-Côte d'Azur,1,43.958983,5.778908
+Cublac,Correze,Nouvelle Aquitaine,1,45.145407,1.30383
+Laussonne,Haute-loire,Auvergne-Rhône-Alpes,1,44.969649,4.0515
+Luxey,Landes,Nouvelle Aquitaine,1,44.262826,-0.520865
+Wolfling-lès-Sarreguemines,Moselle,Grand-Est,1,49.085062,7.172944
+Asson,Pyrenees-atlantiques,Nouvelle Aquitaine,1,43.139877,-0.255777
+La Rochette,Savoie,Auvergne-Rhône-Alpes,1,45.457986,6.120245
+Angoulins,Charente-maritime,Nouvelle Aquitaine,1,46.104118,-1.11078
+Trensacq,Landes,Nouvelle Aquitaine,1,44.213673,-0.753343
+Rochefort,Charente-maritime,Nouvelle Aquitaine,1,45.941496,-0.968099
+Villers-Semeuse,Ardennes,Grand-Est,1,49.739019,4.748361
+Xonrupt-Longemer,Vosges,Grand-Est,1,48.080195,6.925517
+Chavanay,Loire,Auvergne-Rhône-Alpes,1,45.414182,4.729945
+Bayon,Meurthe-et-moselle,Grand-Est,1,48.474499,6.314385
+Aboncourt-sur-Seille,,Grand-Est,1,48.815924,6.338821
