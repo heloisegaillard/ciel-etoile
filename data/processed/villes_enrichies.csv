@@ -1,0 +1,372 @@
+ville,departement,region,nombre_etoiles,latitude,longitude,nom_dep
+Alquines,Pas-de-calais,Hauts-de-France,5,50.739662,1.991761,Departement du Pas-de-Calais
+Saint-Franc,Savoie,Auvergne-Rhône-Alpes,5,45.491213,5.745453,Departement de la Savoie
+Beaurepaire,Isere,Auvergne-Rhône-Alpes,5,45.337544,5.054503,Departement de l'Isere
+Yquebeuf,Seine-maritime,Normandie,5,49.59706,1.255093,Departement de la Seine-Maritime
+Lagarde-d'Apt,Vaucluse,Provence-Alpes-Côte d'Azur,5,43.983463,5.472064,Departement du Vaucluse
+Moncé-en-Belin,Sarthe,Pays de la Loire,5,47.894344,0.197259,Departement de la Sarthe
+La Bauche,Charente-maritime,Nouvelle Aquitaine,5,45.746288,-0.5999439999999999,Departement de la Charente-Maritime
+Graveron-Sémerville,Eure,Normandie,5,49.093639,0.973488,Departement de l'Eure
+Couzou,Lot,Occitanie,4,44.765204,1.616124,Departement du Lot
+Soulaines-sur-Aubance,Maine-et-loire,Pays de la Loire,4,47.364063,-0.522894,Departement de Maine-et-Loire
+Cusy,Haute-savoie,Auvergne-Rhône-Alpes,4,45.765061,6.029434,Departement de la Haute-Savoie
+Vachères,Haute-loire,Auvergne-Rhône-Alpes,4,45.266155,4.210806,Departement de la Haute-Loire
+Saint-André-Lachamp,Ardeche,Auvergne-Rhône-Alpes,4,44.504842,4.162366,Departement de l'Ardeche
+Saint-Georges-Nigremont,Creuse,Nouvelle Aquitaine,4,45.836644,2.263091,Departement de la Creuse
+Bosselshausen,Bas-rhin,Grand-Est,4,48.804496,7.509094,Departement du Bas-Rhin
+Classun,Landes,Nouvelle Aquitaine,4,43.710365,-0.4148719999999999,Departement des Landes
+Courcoury,Charente-maritime,Nouvelle Aquitaine,4,45.711933,-0.5810069999999999,Departement de la Charente-Maritime
+Fussey,Cote-d'or,Bourgogne-Franche-Comté,4,47.118419,4.834775,Departement de la Cote-d'Or
+Talensac,Ille-et-vilaine,Bretagne,4,48.108377,-1.926135,Departement d'Ille-et-Vilaine
+Lentillac-du-Causse,Lot,Occitanie,4,44.561992,1.638737,Departement du Lot
+La Couyère,Calvados,Normandie,4,48.82347,-0.973985,Departement du Calvados
+Bignoux,Vienne,Nouvelle Aquitaine,4,46.806326,0.597696,Departement de la Vienne
+Lentillac-Saint-Blaise,Lot,Occitanie,4,44.590287,2.120619,Departement de l'Aveyron
+Beauregard,Hautes-alpes,Provence-Alpes-Côte d'Azur,4,44.545936,6.074481,Departement des Hautes-Alpes
+Chérancé,Sarthe,Pays de la Loire,4,48.286368,0.173706,Departement de la Sarthe
+Boisset-Saint-Priest,Loire,Auvergne-Rhône-Alpes,4,45.512149,4.104045,Departement de la Loire
+Nantheuil,Dordogne,Nouvelle Aquitaine,4,45.413179,0.943981,Departement de la Dordogne
+Rougon,Alpes-de-haute-provence,Provence-Alpes-Côte d'Azur,4,43.798152,6.401464,Departement des Alpes-de-Haute-Provence
+Mûrs-Erigné,Maine-et-loire,Pays de la Loire,4,47.394652,-0.5541,Departement de Maine-et-Loire
+Segrois,Cote-d'or,Bourgogne-Franche-Comté,4,47.158929,4.891607,Departement de la Cote-d'Or
+Curel,Alpes-de-haute-provence,,4,44.176254,5.660644,Departement des Hautes-Alpes
+La Guyonnière,Vendee,Pays de la Loire,4,46.964658,-1.250028,Departement de la Vendee
+Millevaches,Correze,Nouvelle Aquitaine,4,45.640904,2.09495,Departement de la Correze
+Lacour-d'Arcenay,Cote-d'or,Bourgogne-Franche-Comté,4,47.362092,4.252087,Departement de la Cote-d'Or
+Péronne,Somme,Hauts-de-France,4,49.932121,2.935985,Departement de la Somme
+Cabrerets,Lot,Occitanie,4,44.505455,1.6539389999999998,Departement du Lot
+Miribel-Lanchâtre,Isere,Auvergne-Rhône-Alpes,4,44.974385,5.619862,Departement de l'Isere
+La Barre,Vendee,Pays de la Loire,4,46.789308,-1.141159,Departement de la Vendee
+Mantet,Pyrenees-orientales,Occitanie,4,42.476397,2.30662,Departement des Pyrenees-Orientales
+Marillet,Vendee,,4,46.566536,-0.635931,Departement de la Vendee
+Saint-Bazile-de-Meyssac,Correze,Nouvelle Aquitaine,4,45.050168,1.725951,Departement de la Correze
+Saint-Agnant-près-Crocq,Creuse,Nouvelle Aquitaine,4,45.802956,2.349807,Departement de la Creuse
+La Chapelle-aux-Lys,Vendee,,4,46.628917,-0.658422,Departement de la Vendee
+Conteville-lès-Boulogne,Pas-de-calais,Hauts-de-France,4,50.744459,1.731428,Departement du Pas-de-Calais
+Loubaut,Ariege,Occitanie,4,43.18799,1.285034,Departement de la Haute-Garonne
+Leigneux,Loire,Auvergne-Rhône-Alpes,3,45.751087,3.975032,Departement de la Loire
+Épernay-sous-Gevrey,Cote-d'or,Bourgogne-Franche-Comté,3,47.179959,5.032354,Departement de la Cote-d'Or
+Charentilly,Indre-et-loire,Centre-Val de Loire,3,47.469413,0.608699,Departement d'Indre-et-Loire
+La Croisille-sur-Briance,Haute-vienne,Nouvelle Aquitaine,3,45.630203,1.581676,Departement de la Haute-Vienne
+Saint-Maurice,Val-de-marne,Ile-de-France,3,48.818023,2.433454,Departement du Val-de-Marne
+Pittefaux,Pas-de-calais,Hauts-de-France,3,50.75652,1.683023,Departement du Pas-de-Calais
+Aubenas-les-Alpes,Alpes-de-haute-provence,Provence-Alpes-Côte d'Azur,3,43.930829,5.680347,Departement des Alpes-de-Haute-Provence
+Saint-Philibert,Cote-d'or,Bourgogne-Franche-Comté,3,47.20465,5.010822,Departement de la Cote-d'Or
+Glisolles,Eure,Normandie,3,48.982885,1.020173,Departement de l'Eure
+Marigny,Cote-d'or,Bourgogne-Franche-Comté,3,47.870628,4.614931,Departement de la Cote-d'Or
+Cras-sur-Reyssouze,Ain,Auvergne-Rhône-Alpes,3,46.307444,5.165016,Departement de l'Ain
+Guitera-les-Bains,Corse-du-sud,Corse,3,41.913501,9.085794,Departement de la Corse-du-Sud
+Trégueux,Cotes-d'armor,Bretagne,3,48.490113,-2.739271,Departement des Cotes-d'Armor
+Saché,Indre-et-loire,Centre-Val de Loire,3,47.246461,0.541902,Departement d'Indre-et-Loire
+Les Garennes sur Loire,Maine-et-loire,Pays de la Loire,3,47.406908,-0.476601,Departement de Maine-et-Loire
+Montagnieu,Ain,Auvergne-Rhône-Alpes,3,45.793185,5.46681,Departement de l'Isere
+Bonnencontre,Puy-de-dome,Auvergne-Rhône-Alpes,3,45.773985,3.524214,Departement du Puy-de-Dome
+Chavagne,Loire-atlantique,Pays de la Loire,3,47.463981,-1.486877,Departement de la Loire-Atlantique
+Nanteau-sur-Essonne,,,3,48.315981,2.415924,Departement du Loiret
+Neuvic-Entier,Haute-vienne,Nouvelle Aquitaine,3,45.721521,1.610193,Departement de la Haute-Vienne
+Saint-Pierre-de-Frugie,Dordogne,Nouvelle Aquitaine,3,45.572696,0.998347,Departement de la Dordogne
+Saint-Goussaud,Creuse,Nouvelle Aquitaine,3,46.03994,1.577573,Departement de la Haute-Vienne
+Brézins,Isere,Auvergne-Rhône-Alpes,3,45.348848,5.306584,Departement de l'Isere
+Brochon,Cote-d'or,Bourgogne-Franche-Comté,3,47.238675,4.969781,Departement de la Cote-d'Or
+Eygalayes,Drome,Auvergne-Rhône-Alpes,3,44.238777,5.607203,Departement des Hautes-Alpes
+Saint-Menges,Ardennes,Grand-Est,3,49.73814,4.925832,Departement des Ardennes
+Bourgueil,Indre-et-loire,Centre-Val de Loire,3,47.281177,0.168367,Departement d'Indre-et-Loire
+Revel,Haute-garonne,Occitanie,3,43.457915,2.003297,Departement de la Haute-Garonne
+Le Bastit,Aveyron,Occitanie,3,44.20863,1.970195,Departement de l'Aveyron
+Hardinghen,Pas-de-calais,Hauts-de-France,3,50.799177,1.820658,Departement du Pas-de-Calais
+Chassillé,Sarthe,Pays de la Loire,3,48.019718,-0.1167619999999999,Departement de la Sarthe
+Saint-Pierre-Avez,Hautes-alpes,Provence-Alpes-Côte d'Azur,3,44.256636,5.760907,Departement des Hautes-Alpes
+Chagnon,Loire,Auvergne-Rhône-Alpes,3,45.533857,4.55298,Departement de la Loire
+Montmorin,Hautes-alpes,,3,44.451062,5.541548,Departement des Hautes-Alpes
+Breuil-Barret,Vendee,Pays de la Loire,3,46.652449,-0.683569,Departement de la Vendee
+Saint-Melaine-sur-Aubance,Maine-et-loire,Pays de la Loire,3,47.369439,-0.494067,Departement de Maine-et-Loire
+Carlucet,Lot,Occitanie,3,44.721033,1.612158,Departement du Lot
+Saint-Étienne-Lardeyrol,Haute-loire,Auvergne-Rhône-Alpes,3,45.070974,4.000032,Departement de la Haute-Loire
+Saint-Genès-du-Retz,Puy-de-dome,Auvergne-Rhône-Alpes,3,46.061268,3.213436,Departement du Puy-de-Dome
+Labastide-du-Vert,Lot,Occitanie,3,44.51077,1.261223,Departement du Lot
+Flaujac-Poujols,Lot,Occitanie,3,44.405321,1.49933,Departement du Lot
+Mirabeau,Alpes-de-haute-provence,Provence-Alpes-Côte d'Azur,3,44.062313,6.089962,Departement des Alpes-de-Haute-Provence
+Lompnieu,Ain,Auvergne-Rhône-Alpes,3,45.960879,5.660354,Departement de l'Ain
+Fontaines-en-Sologne,Loir-et-cher,Centre-Val de Loire,3,47.509253,1.550472,Departement du Loir-et-Cher
+Saint-Étienne-du-Vauvray,Eure,Normandie,3,49.242311,1.219001,Departement de l'Eure
+Saint-Méard,Haute-vienne,Nouvelle Aquitaine,3,45.66489,1.54739,Departement de la Haute-Vienne
+Cosswiller,Bas-rhin,Grand-Est,3,48.630291,7.39757,Departement du Bas-Rhin
+Séreilhac,Haute-vienne,Nouvelle Aquitaine,3,45.768705,1.081343,Departement de la Haute-Vienne
+Chazelles-sur-Lavieu,Loire,Auvergne-Rhône-Alpes,3,45.538343,3.999486,Departement de la Loire
+La Chamba,Loire,Auvergne-Rhône-Alpes,3,45.754567,3.756397,Departement de la Loire
+Revest-les-Roches,Alpes-maritimes,Provence-Alpes-Côte d'Azur,3,43.880102,7.1562,Departement des Alpes-Maritimes
+Leulinghen-Bernes,Pas-de-calais,Hauts-de-France,3,50.830465,1.717912,Departement du Pas-de-Calais
+Les Pieux,Manche,Normandie,3,49.512529,-1.807678,Departement de la Manche
+Houldizy,Ardennes,Grand-Est,3,49.810229,4.668869,Departement des Ardennes
+Saint-Victor-sur-Rhins,Loire,Auvergne-Rhône-Alpes,3,46.003805,4.280623,Departement du Rhone
+Choue,Loir-et-cher,Centre-Val de Loire,3,47.997744,0.928238,Departement du Loir-et-Cher
+La Vacherie,Lozere,Occitanie,3,44.519168,3.477406,Departement de la Lozere
+Cremps,Lot,Occitanie,3,44.388627,1.598962,Departement du Lot
+Vernou-la-Celle-sur-Seine,Seine-et-marne,Ile-de-France,3,48.387498,2.846017,Departement de Seine-et-Marne
+Rilhac-Lastours,Haute-vienne,Nouvelle Aquitaine,3,45.64866,1.120178,Departement de la Haute-Vienne
+Écommoy,Sarthe,Pays de la Loire,3,47.827688,0.27299,Departement de la Sarthe
+Bayenghem-lès-Seninghem,Pas-de-calais,Hauts-de-France,3,50.699934,2.075928,Departement du Pas-de-Calais
+Poncey-lès-Athée,Cote-d'or,Bourgogne-Franche-Comté,3,47.239826,5.387701,Departement de la Cote-d'Or
+Ressons-le-Long,Aisne,Hauts-de-France,3,49.387512,3.14733,Departement de l'Aisne
+Clénay,Cote-d'or,Bourgogne-Franche-Comté,3,47.403521,5.120414,Departement de la Cote-d'Or
+Croze,Vaucluse,Provence-Alpes-Côte d'Azur,3,43.68793,5.450329,Departement des Bouches-du-Rhone
+Barges,Haute-loire,Auvergne-Rhône-Alpes,3,44.83597,3.89335,Departement de la Lozere
+Peyrelevade,Dordogne,Nouvelle Aquitaine,3,44.865604,0.528937,Departement de la Dordogne
+La Chapelle-Vendômoise,Loir-et-cher,Centre-Val de Loire,3,47.670613,1.238199,Departement du Loir-et-Cher
+Reulle-Vergy,Cote-d'or,Bourgogne-Franche-Comté,3,47.185908,4.893876,Departement de la Cote-d'Or
+Campagna-de-Sault,Aude,Occitanie,3,42.75946,2.053088,Departement de l'Aude
+Châteauvieux,Creuse,Nouvelle Aquitaine,3,46.190642,1.863661,Departement de la Creuse
+Pageas,Haute-vienne,Nouvelle Aquitaine,3,45.67721,0.999707,Departement de la Haute-Vienne
+Châtenoy,Loiret,Centre-Val de Loire,3,47.918141,2.396204,Departement du Loiret
+Nouaillé-Maupertuis,Vienne,Nouvelle Aquitaine,3,46.508571,0.413388,Departement de la Vienne
+Sèvres-Anxaumont,Vienne,Nouvelle Aquitaine,3,46.569166,0.4640669999999999,Departement de la Vienne
+Saint-Pons,Alpes-de-haute-provence,Provence-Alpes-Côte d'Azur,3,44.350016,6.379999,Departement des Alpes-de-Haute-Provence
+Sornac,Correze,Nouvelle Aquitaine,3,45.666858,2.192141,Departement de la Creuse
+Maillet,Indre,Centre-Val de Loire,3,46.572515,1.678578,Departement de l'Indre
+Lay,Loire,Auvergne-Rhône-Alpes,3,45.954968,4.217509,Departement de la Loire
+Pouru-aux-Bois,Ardennes,Grand-Est,3,49.705756,5.090925,Departement des Ardennes
+Sceaux-sur-Huisne,Sarthe,Pays de la Loire,3,48.104588,0.582664,Departement de la Sarthe
+Sigoyer,Hautes-alpes,Provence-Alpes-Côte d'Azur,3,44.477132,5.9755,Departement des Hautes-Alpes
+Saint-Sylvain,Calvados,Normandie,3,49.055956,-0.2173409999999999,Departement du Calvados
+Arçay,Cher,Centre-Val de Loire,3,46.948314,2.33998,Departement du Cher
+Boigneville,Essonne,Ile-de-France,3,48.334646,2.371186,Departement du Loiret
+Vabre,Tarn,Occitanie,3,43.692218,2.425833,Departement du Tarn
+Balaives-et-Butz,Ardennes,Grand-Est,3,49.672722,4.733635,Departement des Ardennes
+Saint-Hostien,Haute-loire,Auvergne-Rhône-Alpes,3,45.071443,4.047059,Departement de la Haute-Loire
+Saint-Genès-Champanelle,Puy-de-dome,Auvergne-Rhône-Alpes,3,45.720181,3.017998,Departement du Puy-de-Dome
+Cizay-la-Madeleine,Maine-et-loire,Pays de la Loire,3,47.188148,-0.187529,Departement de Maine-et-Loire
+Roggenhouse,Haut-rhin,Grand-Est,3,47.88951,7.470169,Departement du Haut-Rhin
+Écordal,Ardennes,Grand-Est,3,49.527413,4.579588,Departement des Ardennes
+Leschères,Jura,Bourgogne-Franche-Comté,3,46.451535,5.826371,Departement du Jura
+Campagne-lès-Guines,Pas-de-calais,Hauts-de-France,3,50.839412,1.903313,Departement du Pas-de-Calais
+Chaumont d'Anjou,Maine-et-loire,Pays de la Loire,3,47.55189,-0.23635,Departement de Maine-et-Loire
+Giat,Puy-de-dome,Auvergne-Rhône-Alpes,3,45.801769,2.466984,Departement de la Creuse
+Treize-Vents,Correze,Nouvelle Aquitaine,3,45.268,1.7857189999999998,Departement de la Correze
+Le Plessis Grammoire,Maine-et-loire,Pays de la Loire,3,47.500173,-0.43081,Departement de Maine-et-Loire
+Le Brignon,Haute-loire,Auvergne-Rhône-Alpes,3,44.935123,3.879717,Departement de la Haute-Loire
+Belmont-Sainte-Foi,Lot,Occitanie,3,44.281905,1.6316739999999998,Departement du Lot
+Novion-Porcien,Ardennes,Grand-Est,3,49.599462,4.422777,Departement des Ardennes
+Cayres,Haute-loire,Auvergne-Rhône-Alpes,3,44.924877,3.806046,Departement de la Haute-Loire
+Puyjourdes,Lot,Occitanie,3,44.406941,1.859739,Departement du Lot
+Lissac,Ariege,Occitanie,3,43.268709,1.510415,Departement de la Haute-Garonne
+Saint-Pierre-de-Genebroz,Savoie,Auvergne-Rhône-Alpes,3,45.452265,5.753769,Departement de la Savoie
+Quesques,Pas-de-calais,Hauts-de-France,3,50.703265,1.931728,Departement du Pas-de-Calais
+Douzens,Aude,Occitanie,2,43.185572,2.596815,Departement de l'Aude
+Montaigut-le-Blanc,Creuse,Nouvelle Aquitaine,2,46.121057,1.7347739999999998,Departement de la Creuse
+Mérindol,Vaucluse,Provence-Alpes-Côte d'Azur,2,43.755152,5.202624,Departement du Vaucluse
+Verteuil-sur-Charente,Charente,Nouvelle Aquitaine,2,45.981646,0.228785,Departement de la Charente
+Périers,Manche,Normandie,2,49.185635,-1.4077,Departement de la Manche
+Saint-Denis-du-Payré,Vendee,Pays de la Loire,2,46.406681,-1.269142,Departement de la Vendee
+Saint-Yrieix-le-Déjalat,Correze,Nouvelle Aquitaine,2,45.45613,1.971283,Departement de la Correze
+Reclinghem,Pas-de-calais,Hauts-de-France,2,50.572296,2.175524,Departement du Pas-de-Calais
+Wismes,Pas-de-calais,Hauts-de-France,2,50.653232,2.071141,Departement du Pas-de-Calais
+Lérigneux,Loire,Auvergne-Rhône-Alpes,2,45.600784,3.964691,Departement de la Loire
+Saint-Julien-Chapteuil,Haute-loire,Auvergne-Rhône-Alpes,2,45.034398,4.060336,Departement de la Haute-Loire
+Le Poët-Sigillat,Drome,Auvergne-Rhône-Alpes,2,44.368659,5.316882,Departement de la Drome
+Villé,Bas-rhin,Grand-Est,2,48.342737,7.303237,Departement du Bas-Rhin
+Le-Grand-Village-Plage,Charente-maritime,Nouvelle Aquitaine,2,45.859593,-1.237092,Departement de la Charente-Maritime
+Magny-lès-Aubigny,Cote-d'or,Bourgogne-Franche-Comté,2,47.110698,5.176173,Departement de la Cote-d'Or
+Saint-Jeannet,Tarn,Occitanie,2,43.922082,1.735087,Departement du Tarn
+Anchamps,Ardennes,Grand-Est,2,49.93146,4.67423,Departement des Ardennes
+Saint-Georges-Haute-Ville,Loire,Auvergne-Rhône-Alpes,2,45.553629,4.098462,Departement de la Loire
+Lézigneux,Loire,Auvergne-Rhône-Alpes,2,45.566604,4.060255,Departement de la Loire
+Le Grand-Bourg,Creuse,Nouvelle Aquitaine,2,46.159641,1.644457,Departement de la Creuse
+Laprade,Lot-et-garonne,Nouvelle Aquitaine,2,44.182453,0.297183,Departement du Lot-et-Garonne
+Gourdon,Lot,Occitanie,2,44.736817,1.381841,Departement du Lot
+Châteldon,Puy-de-dome,Auvergne-Rhône-Alpes,2,45.976533,3.519209,Departement du Puy-de-Dome
+La Possession,Reunion,,2,-20.99646,55.409766,Reunion
+Vitrimont,Meurthe-et-moselle,Grand-Est,2,48.60061,6.439112,Departement de Meurthe-et-Moselle
+Cellieu,Loire,Auvergne-Rhône-Alpes,2,45.522329,4.539845,Departement de la Loire
+Ajoncourt,,Grand-Est,2,48.844314,6.288818,Departement de Meurthe-et-Moselle
+Le Juch,Finistere,Bretagne,2,48.065358,-4.255706,Departement du Finistere
+Val d'Oronaye,Alpes-de-haute-provence,Provence-Alpes-Côte d'Azur,2,44.476169,6.798476,Departement des Alpes-de-Haute-Provence
+Montval-sur-Loir,Sarthe,Pays de la Loire,2,47.693176,0.417263,Departement de la Sarthe
+Saint-Claude-de-Diray,Loir-et-cher,Centre-Val de Loire,2,47.614637,1.4158,Departement du Loir-et-Cher
+La Gresle,Loire,Auvergne-Rhône-Alpes,2,46.074949,4.280987,Departement du Rhone
+La Chapelle-Heulin,Loire-atlantique,Pays de la Loire,2,47.175875,-1.340764,Departement de la Loire-Atlantique
+La Tour-d'Aigues,Vaucluse,Provence-Alpes-Côte d'Azur,2,43.725116,5.547809,Departement du Vaucluse
+Jouy-Mauvoisin,Yvelines,Ile-de-France,2,48.974512,1.647617,Departement des Yvelines
+Craponne-sur-Arzon,Haute-loire,Auvergne-Rhône-Alpes,2,45.330673,3.847666,Departement de la Haute-Loire
+Calès,Haute-garonne,Occitanie,2,43.441872,2.008128,Departement de la Haute-Garonne
+Esbarres,Cote-d'or,Bourgogne-Franche-Comté,2,47.093773,5.213735,Departement de la Cote-d'Or
+Cobrieux,Nord,Hauts-de-France,2,50.543413,3.228182,Departement du Nord
+Saint-Brice-sur-Vienne,Haute-vienne,Nouvelle Aquitaine,2,45.879038,0.952404,Departement de la Haute-Vienne
+Prévocourt,Moselle,Grand-Est,2,48.914243,6.427071,Departement de la Moselle
+Auzat-la-Combelle,Puy-de-dome,Auvergne-Rhône-Alpes,2,45.452293,3.317286,Departement du Puy-de-Dome
+Lure,Haute-saone,Bourgogne-Franche-Comté,2,47.682941,6.495943,Departement de la Haute-Saone
+Concoret,Morbihan,Bretagne,2,48.063816,-2.207172,Departement d'Ille-et-Vilaine
+Saint-Bonnet-Elvert,Correze,Nouvelle Aquitaine,2,45.16101,1.902894,Departement de la Correze
+Saint-Pierre-du-Lorouër,Sarthe,Pays de la Loire,2,47.80529,0.5214219999999999,Departement de la Sarthe
+Piégut-Pluviers,Dordogne,Nouvelle Aquitaine,2,45.621703,0.688472,Departement de la Dordogne
+Neuvy,Loir-et-cher,Centre-Val de Loire,2,47.563002,1.602218,Departement du Loir-et-Cher
+Espagnac,Correze,Nouvelle Aquitaine,2,45.229385,1.896452,Departement de la Correze
+Castillon,Gard,Occitanie,2,44.289436,4.133638,Departement du Gard
+La Meignanne,Mayenne,Pays de la Loire,2,47.792303,-0.503072,Departement de Maine-et-Loire
+Uvernet-Fours,Alpes-de-haute-provence,Provence-Alpes-Côte d'Azur,2,44.360362,6.6249,Departement des Alpes-de-Haute-Provence
+Sanghen,Pas-de-calais,Hauts-de-France,2,50.775692,1.901878,Departement du Pas-de-Calais
+Ris,Hautes-pyrenees,Occitanie,2,42.886767,0.397211,Departement des Hautes-Pyrenees
+Saint-Vallier,,Auvergne-Rhône-Alpes,2,45.177773,4.814306,Departement de la Drome
+Craintilleux,Loire,Auvergne-Rhône-Alpes,2,45.582846,4.233706,Departement de la Loire
+Ouchamps,Loir-et-cher,Centre-Val de Loire,2,47.471758,1.307157,Departement du Loir-et-Cher
+La Terrasse,Loire,Auvergne-Rhône-Alpes,2,45.45245,4.284493,Departement de la Loire
+Barret-sur-Méouge,Hautes-alpes,Provence-Alpes-Côte d'Azur,2,44.261853,5.732336,Departement des Hautes-Alpes
+Quelmes,Pas-de-calais,Hauts-de-France,2,50.732672,2.136124,Departement du Pas-de-Calais
+Bouray-sur-Juine,Essonne,Ile-de-France,2,48.519564,2.297199,Departement de l'Essonne
+Saint-Bonnet-le-Courreau,Loire,Auvergne-Rhône-Alpes,2,45.659496,3.943881,Departement de la Loire
+Mesland,Loir-et-cher,Centre-Val de Loire,2,47.509425,1.121249,Departement du Loir-et-Cher
+Saint-Gence,Haute-vienne,Nouvelle Aquitaine,2,45.920958,1.1367,Departement de la Haute-Vienne
+Les Ayvelles,Ardennes,Grand-Est,2,49.720933,4.756061,Departement des Ardennes
+Mirefleurs,Puy-de-dome,Auvergne-Rhône-Alpes,2,45.692946,3.223579,Departement du Puy-de-Dome
+Aulnat,Puy-de-dome,Auvergne-Rhône-Alpes,2,45.798401,3.167361,Departement du Puy-de-Dome
+Holtzheim,Bas-rhin,Grand-Est,2,48.558012,7.639893,Departement du Bas-Rhin
+Nordhouse,Bas-rhin,Grand-Est,2,48.447708,7.672131999999999,Departement du Bas-Rhin
+Vineuil,Loir-et-cher,Centre-Val de Loire,2,47.579817,1.371593,Departement du Loir-et-Cher
+Montaulieu,Drome,Auvergne-Rhône-Alpes,2,44.357077,5.223526,Departement de la Drome
+Beynat,Correze,Nouvelle Aquitaine,2,45.123976,1.722997,Departement de la Correze
+Vercoiran,Drome,Auvergne-Rhône-Alpes,2,44.300513,5.345445,Departement de la Drome
+Planfoy,Loire,Auvergne-Rhône-Alpes,2,45.382256,4.440119,Departement de la Loire
+Lalbenque,Lot,Occitanie,2,44.338394,1.5437539999999998,Departement du Lot
+Moigny-sur-École,Essonne,Ile-de-France,2,48.432236,2.456541,Departement de l'Essonne
+Battenheim,Haut-rhin,Grand-Est,2,47.818952,7.381252,Departement du Haut-Rhin
+Seigy,Loir-et-cher,Centre-Val de Loire,2,47.254237,1.397327,Departement du Loir-et-Cher
+Belleneuve,Cote-d'or,Bourgogne-Franche-Comté,2,47.356653,5.265668,Departement de la Cote-d'Or
+Bernin,Isere,Auvergne-Rhône-Alpes,2,45.268379,5.864624,Departement de l'Isere
+Allègre,Haute-loire,Auvergne-Rhône-Alpes,2,45.199257,3.710665,Departement de la Haute-Loire
+Blavozy,Haute-loire,Auvergne-Rhône-Alpes,2,45.056772,3.976911,Departement de la Haute-Loire
+Wirwignes,Pas-de-calais,Hauts-de-France,2,50.684617,1.759783,Departement du Pas-de-Calais
+Aujols,Aveyron,Occitanie,2,44.59662,2.374634,Departement de l'Aveyron
+Larnagol,Lot,Occitanie,2,44.478031,1.772797,Departement du Lot
+Chauconin-Neufmontiers,Seine-et-marne,Ile-de-France,2,48.975733,2.838811,Departement de Seine-et-Marne
+Saint-Bonnet-Briance,Haute-vienne,Nouvelle Aquitaine,2,45.707172,1.475577,Departement de la Haute-Vienne
+Gourvillette,Charente-maritime,Nouvelle Aquitaine,2,45.889462,-0.223399,Departement de la Charente-Maritime
+Albon-d'Ardèche,Ardeche,Auvergne-Rhône-Alpes,2,44.820486,4.426989,Departement de l'Ardeche
+Mallièvre,Vendee,Pays de la Loire,2,46.91063,-0.864261,Departement de la Vendee
+Bressolles,Haute-loire,Auvergne-Rhône-Alpes,2,45.34232,3.151794,Departement du Cantal
+Lamothe-Goas,Gers,Occitanie,2,43.864388,0.557978,Departement du Gers
+Concots,Lot,Occitanie,2,44.400894,1.643867,Departement du Lot
+Bosmie-l'Aiguille,Haute-vienne,Nouvelle Aquitaine,2,45.7673,1.215241,Departement de la Haute-Vienne
+Bonnelles,Yvelines,Ile-de-France,2,48.618418,2.027233,Departement des Yvelines
+Baincthun,Pas-de-calais,Hauts-de-France,2,50.709822,1.680009,Departement du Pas-de-Calais
+Signy-l'Abbaye,Ardennes,Grand-Est,2,49.697457,4.419957,Departement des Ardennes
+Rougeries,Aisne,Hauts-de-France,2,49.80294,3.785682,Departement de l'Aisne
+Reipertswiller,Bas-rhin,Grand-Est,2,48.931392,7.464054,Departement du Bas-Rhin
+Callen,Landes,Nouvelle Aquitaine,2,44.297573,-0.476605,Departement de la Gironde
+Chamblanc,Cote-d'or,Bourgogne-Franche-Comté,2,47.019319,5.150101,Departement de la Cote-d'Or
+La Ricamarie,Loire,Auvergne-Rhône-Alpes,2,45.403022,4.363951,Departement de la Loire
+Beuvrequen,Pas-de-calais,Hauts-de-France,2,50.802092,1.664831,Departement du Pas-de-Calais
+Salérans,Hautes-alpes,,2,44.242744,5.703852,Departement des Hautes-Alpes
+Salperwick,Pas-de-calais,Hauts-de-France,2,50.771883,2.231669,Departement du Pas-de-Calais
+Chaptelat,Haute-vienne,Nouvelle Aquitaine,2,45.908486,1.25841,Departement de la Haute-Vienne
+Peyrilhac,Haute-vienne,Nouvelle Aquitaine,2,45.948865,1.135756,Departement de la Haute-Vienne
+Saint-Jory-de-Chalais,Dordogne,Nouvelle Aquitaine,2,45.497911,0.898575,Departement de la Dordogne
+Bas-et-Lezat,Puy-de-dome,Auvergne-Rhône-Alpes,2,46.024152,3.299901,Departement du Puy-de-Dome
+Saint-Christophe-sur-Dolaison,Haute-loire,Auvergne-Rhône-Alpes,2,44.99681,3.819772,Departement de la Haute-Loire
+La Capelle-lès-Boulogne,Pas-de-calais,Hauts-de-France,2,50.73074,1.706324,Departement du Pas-de-Calais
+La Ferté-Imbault,Loir-et-cher,Centre-Val de Loire,2,47.38575,1.955484,Departement du Loir-et-Cher
+Méry-sur-Cher,Cher,Centre-Val de Loire,2,47.245583,1.987294,Departement du Loir-et-Cher
+Estoublon,Alpes-de-haute-provence,Provence-Alpes-Côte d'Azur,2,43.94201,6.170699,Departement des Alpes-de-Haute-Provence
+Beauvoir-sur-Mer,Vendee,Pays de la Loire,1,46.915489,-2.04381,Departement de la Vendee
+Bouesse,Indre,Centre-Val de Loire,1,46.615835,1.686675,Departement de l'Indre
+Calvignac,Lot,Occitanie,1,44.504112,1.143412,Departement du Lot
+Quesnoy-sur-Deûle,Nord,Hauts-de-France,1,50.712341,2.998587,Departement du Nord
+Haguenau,Bas-rhin,Grand-Est,1,48.8162,7.787039,Departement du Bas-Rhin
+Tresses,Gironde,Nouvelle Aquitaine,1,44.848552,-0.463858,Departement de la Gironde
+Vigeois,Correze,Nouvelle Aquitaine,1,45.378989,1.516516,Departement de la Correze
+Coussac-Bonneval,Haute-vienne,Nouvelle Aquitaine,1,45.510464,1.323419,Departement de la Haute-Vienne
+Faucon-de-Barcelonnette,Alpes-de-haute-provence,Provence-Alpes-Côte d'Azur,1,44.392868,6.677254,Departement des Alpes-de-Haute-Provence
+Enchastrayes,Alpes-de-haute-provence,Provence-Alpes-Côte d'Azur,1,44.36706,6.694421,Departement des Alpes-de-Haute-Provence
+Liocourt,Moselle,Grand-Est,1,48.909407,6.343456,Departement de la Moselle
+Saint-Privat-des-Vieux,Gard,Occitanie,1,44.143297,4.128724,Departement du Gard
+Montendre,Charente-maritime,Nouvelle Aquitaine,1,45.284674,-0.40799,Departement de la Charente-Maritime
+Arvieu,Aveyron,Occitanie,1,44.189986,2.66099,Departement de l'Aveyron
+Saint-Cézaire-sur-Siagne,,Provence-Alpes-Côte d'Azur,1,43.648325,6.791988,Departement des Alpes-Maritimes
+Saint-Barthélemy-d'Anjou,Maine-et-loire,Pays de la Loire,1,47.466724,-0.495104,Departement de Maine-et-Loire
+Saumur,Maine-et-loire,Pays de la Loire,1,47.258651,-0.079223,Departement de Maine-et-Loire
+Jumilhac-le-Grand,Dordogne,Nouvelle Aquitaine,1,45.493657,1.062671,Departement de la Dordogne
+Roscoff,Finistere,Bretagne,1,48.72568,-3.985908,Departement du Finistere
+Sainte-Marie-de-Ré,Charente-maritime,Nouvelle Aquitaine,1,46.148976,-1.311357,Departement de la Charente-Maritime
+Allassac,Correze,Nouvelle Aquitaine,1,45.257751,1.475112,Departement de la Correze
+Bourgheim,Bas-rhin,Grand-Est,1,48.418516,7.494893,Departement du Bas-Rhin
+Rochechouart,Haute-vienne,Nouvelle Aquitaine,1,45.822521,0.820506,Departement de la Haute-Vienne
+Charmois-l'Orgueilleux,Vosges,Grand-Est,1,48.102933,6.26957,Departement des Vosges
+Sénaillac-Lauzès,Lot,Occitanie,1,44.601751,1.650381,Departement du Lot
+Saint-Arnoult-en-Yvelines,Yvelines,Ile-de-France,1,48.570894,1.940003,Departement des Yvelines
+Dommery,Ardennes,Grand-Est,1,49.675254,4.473352,Departement des Ardennes
+Saint-Romain-Lachalm,Haute-loire,Auvergne-Rhône-Alpes,1,45.265597,4.333808,Departement de la Haute-Loire
+Ungersheim,Haut-rhin,Grand-Est,1,47.878584,7.304447,Departement du Haut-Rhin
+Barcelonnette,Alpes-de-haute-provence,Provence-Alpes-Côte d'Azur,1,44.38561,6.651649,Departement des Alpes-de-Haute-Provence
+Sauzon,Morbihan,Bretagne,1,47.370629,-3.223884,Departement du Morbihan
+Les Orres,Hautes-alpes,Provence-Alpes-Côte d'Azur,1,44.513278,6.550337,Departement des Hautes-Alpes
+Cazalis,Guadeloupe,,1,15.922987,-61.290779,Guadeloupe
+Le Poinçonnet,Indre,Centre-Val de Loire,1,46.762982,1.718495,Departement de l'Indre
+Limogne-en-Quercy,Lot,Occitanie,1,44.396968,1.769531,Departement du Lot
+Crolles,Isere,Auvergne-Rhône-Alpes,1,45.284151,5.882028,Departement de l'Isere
+Pessac,Gironde,Nouvelle Aquitaine,1,44.805275,-0.6333559999999999,Departement de la Gironde
+Niederbronn-les-Bains,Bas-rhin,Grand-Est,1,48.949791,7.643423999999999,Departement du Bas-Rhin
+Peisey-Nancroix,Savoie,Auvergne-Rhône-Alpes,1,45.545799,6.755017,Departement de la Savoie
+Lavans-lès-Saint-Claude,Jura,Bourgogne-Franche-Comté,1,46.385966,5.781312,Departement du Jura
+Martignas-sur-Jalle,Gironde,Nouvelle Aquitaine,1,44.840159,-0.7762319999999999,Departement de la Gironde
+Pont-du-Château,Puy-de-dome,Auvergne-Rhône-Alpes,1,45.798255,3.247179,Departement du Puy-de-Dome
+Quéven,Morbihan,Bretagne,1,47.788221,-3.416184,Departement du Morbihan
+Lanester,Morbihan,Bretagne,1,47.762611,-3.339433,Departement du Morbihan
+Saint-Joseph,Reunion,,1,-21.292154,55.647459,Reunion
+Bracieux,Loir-et-cher,Centre-Val de Loire,1,47.547853,1.541447,Departement du Loir-et-Cher
+Crocq,Creuse,Nouvelle Aquitaine,1,45.867892,2.367088,Departement de la Creuse
+Menars,Loir-et-cher,Centre-Val de Loire,1,47.641544,1.408341,Departement du Loir-et-Cher
+Crachier,Isere,Auvergne-Rhône-Alpes,1,45.547776,5.22511,Departement de l'Isere
+Murles,Herault,Occitanie,1,43.688482,3.745256,Departement de l'Herault
+Vendeuil-Caply,Oise,Hauts-de-France,1,49.606613,2.289233,Departement de l'Oise
+Cénevières,Lot,Occitanie,1,44.462432,1.746735,Departement du Lot
+Marchaux,Doubs,Bourgogne-Franche-Comté,1,47.323008,6.131939,Departement du Doubs
+Kingersheim,Haut-rhin,Grand-Est,1,47.790837,7.337469,Departement du Haut-Rhin
+Felletin,Creuse,Nouvelle Aquitaine,1,45.882843,2.172214,Departement de la Creuse
+Le Taillan-Médoc,Gironde,Nouvelle Aquitaine,1,44.904107,-0.6701969999999999,Departement de la Gironde
+Waville,Meurthe-et-moselle,Grand-Est,1,49.009755,5.949096,Departement de la Moselle
+Buis-les-Baronnies,Drome,Auvergne-Rhône-Alpes,1,44.274995,5.274202,Departement de la Drome
+Aixe-sur-Vienne,Haute-vienne,Nouvelle Aquitaine,1,45.795739,1.135774,Departement de la Haute-Vienne
+Sucé-sur-Erdre,Loire-atlantique,Pays de la Loire,1,47.344477,-1.529521,Departement de la Loire-Atlantique
+Mende,Lozere,Occitanie,1,44.517936,3.499516,Departement de la Lozere
+Châtel-Guyon,Puy-de-dome,Auvergne-Rhône-Alpes,1,45.921875,3.063224,Departement du Puy-de-Dome
+Lacelle,Correze,Nouvelle Aquitaine,1,45.641115,1.825339,Departement de la Correze
+La Verpillière,Isere,Auvergne-Rhône-Alpes,1,45.636757,5.142649,Departement de l'Isere
+Mécleuves,Moselle,Grand-Est,1,49.041938,6.269859,Departement de la Moselle
+Saint-Saturnin-lès-Apt,Vaucluse,Provence-Alpes-Côte d'Azur,1,43.94402,5.383124,Departement du Vaucluse
+Joucas,Vaucluse,Provence-Alpes-Côte d'Azur,1,43.925204,5.251541,Departement du Vaucluse
+Aouste-sur-Sye,Drome,Auvergne-Rhône-Alpes,1,44.715149,5.055786,Departement de la Drome
+Souzy-la-Briche,Essonne,Ile-de-France,1,48.528485,2.148092,Departement de l'Essonne
+Bullion,Yvelines,Ile-de-France,1,48.621756,1.995963,Departement des Yvelines
+Thiébauménil,Meurthe-et-moselle,Grand-Est,1,48.578967,6.622245,Departement de Meurthe-et-Moselle
+Prény,Meurthe-et-moselle,Grand-Est,1,48.977985,5.996506,Departement de Meurthe-et-Moselle
+Roquettes,Haute-garonne,Occitanie,1,43.498774,1.366002,Departement de la Haute-Garonne
+Le Bois-Plage-en-Ré,Charente-maritime,Nouvelle Aquitaine,1,46.185511,-1.393437,Departement de la Charente-Maritime
+Péone,Alpes-maritimes,Provence-Alpes-Côte d'Azur,1,44.117242,6.908333,Departement des Alpes-Maritimes
+Trélazé,Maine-et-loire,Pays de la Loire,1,47.445935,-0.4671809999999999,Departement de Maine-et-Loire
+Labaroche,Haut-rhin,Grand-Est,1,48.109729,7.192757,Departement du Haut-Rhin
+Thiat,Haute-vienne,Nouvelle Aquitaine,1,46.265846,0.973007,Departement de la Vienne
+Le Poët-en-Percip,Drome,Auvergne-Rhône-Alpes,1,44.254501,5.391155,Departement de la Drome
+Sainte-Feyre,Creuse,Nouvelle Aquitaine,1,46.138226,1.914453,Departement de la Creuse
+Salleboeuf,Gironde,Nouvelle Aquitaine,1,44.84159,-0.397563,Departement de la Gironde
+Serres-Castet,Pyrenees-atlantiques,Nouvelle Aquitaine,1,43.386234,-0.3549,Departement des Pyrenees-Atlantiques
+Nieul,Haute-vienne,Nouvelle Aquitaine,1,45.924206,1.170148,Departement de la Haute-Vienne
+Manonviller,Meurthe-et-moselle,Grand-Est,1,48.582632,6.649643,Departement de Meurthe-et-Moselle
+Aulon,Creuse,Nouvelle Aquitaine,1,46.081827,1.6903800000000002,Departement de la Creuse
+Sainte-Florine,Haute-loire,Auvergne-Rhône-Alpes,1,45.404569,3.317013,Departement de la Haute-Loire
+Sponville,Meurthe-et-moselle,Grand-Est,1,49.071956,5.832121,Departement de Meurthe-et-Moselle
+Manhoué,,Grand-Est,1,48.824947,6.338036,Departement de Meurthe-et-Moselle
+Saint-Aignan,Loir-et-cher,Centre-Val de Loire,1,47.268343,1.375741,Departement du Loir-et-Cher
+Entre-Deux,Reunion,,1,-21.210667,55.486919,Reunion
+Forcalquier,Alpes-de-haute-provence,Provence-Alpes-Côte d'Azur,1,43.958983,5.778908,Departement des Alpes-de-Haute-Provence
+Cublac,Correze,Nouvelle Aquitaine,1,45.145407,1.30383,Departement de la Correze
+Laussonne,Haute-loire,Auvergne-Rhône-Alpes,1,44.969649,4.0515,Departement de la Haute-Loire
+Luxey,Landes,Nouvelle Aquitaine,1,44.262826,-0.520865,Departement de la Gironde
+Wolfling-lès-Sarreguemines,Moselle,Grand-Est,1,49.085062,7.172944,Departement de la Moselle
+Asson,Pyrenees-atlantiques,Nouvelle Aquitaine,1,43.139877,-0.255777,Departement des Pyrenees-Atlantiques
+La Rochette,Savoie,Auvergne-Rhône-Alpes,1,45.457986,6.120245,Departement de la Savoie
+Angoulins,Charente-maritime,Nouvelle Aquitaine,1,46.104118,-1.11078,Departement de la Charente-Maritime
+Trensacq,Landes,Nouvelle Aquitaine,1,44.213673,-0.753343,Departement des Landes
+Rochefort,Charente-maritime,Nouvelle Aquitaine,1,45.941496,-0.968099,Departement de la Charente-Maritime
+Villers-Semeuse,Ardennes,Grand-Est,1,49.739019,4.748361,Departement des Ardennes
+Xonrupt-Longemer,Vosges,Grand-Est,1,48.080195,6.925517,Departement des Vosges
+Chavanay,Loire,Auvergne-Rhône-Alpes,1,45.414182,4.729945,Departement de la Loire
+Bayon,Meurthe-et-moselle,Grand-Est,1,48.474499,6.314385,Departement de Meurthe-et-Moselle
+Aboncourt-sur-Seille,,Grand-Est,1,48.815924,6.338821,Departement de Meurthe-et-Moselle

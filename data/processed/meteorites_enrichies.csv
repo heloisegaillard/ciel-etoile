@@ -1,0 +1,93 @@
+code,name,abbrev,status,fall,year,place,type,mass,met_bull,antarctic,latitude,longitude,comment,nom_dep
+86769,Ménétréol-sur-Sauldre,,Official,Yc,2023.0,"Centre, France",H5,714.0,115.0,,47.43333,2.3,,Departement du Loir-et-Cher
+79565,Saint-Pierre-le-Viger,,Official,Yc,2023.0,"Seine-Maritime, Normandy, France",L5-6,1200.0,112.0,,49.82092,0.8264,,Departement de la Seine-Maritime
+64568,Abbans-Dessous,,Official,,2015.0,"Franche-Comté, France",LL6,3.12,106.0,,47.13175,5.87555,,Departement du Doubs
+63198,Mercantour,,Discredited,,2014.0,"Provence-Alpes-Cote d'Azur, France",L4-6,203.4,105.0,,44.145,7.311,,Departement des Alpes-Maritimes
+84278,Le Muy,,Official,,2013.0,"Provence-Alpes-Cote d'Azur, France",H5,760.2,113.0,,43.47783,6.6015,,Departement du Var
+35288,Rochechouart,,Crater,,,"Limousin, France",Impact Crater,,,,45.83333,0.93333,From EIDB,Departement de la Haute-Vienne
+58385,Draveil,,Official,Y,2011.0,"Ile-del-France, France",H5,7500.0,102.0,,48.68667,2.42833,,Departement de l'Essonne
+63228,Langres,,Official,,2004.0,"Champagne-Ardenne, France",L4,340.0,105.0,,47.86056,5.31361,,Departement de la Haute-Marne
+18845,Plancy-l'Abbaye,,Official,,2003.0,"Champagne-Ardenne, France",H4,180.0,88.0,,48.66667,4.05,,Departement de la Marne
+458,Alby sur Chéran,,Official,Y,2002.0,"Rhone-Alpes, France",Eucrite-mmict,252.0,88.0,,45.818611,6.001111,,Departement de la Haute-Savoie
+55768,Contis-Plage,,Official,,2000.0,"Aquitaine, France",H5,44.0,101.0,,44.08333,-1.31667,,Departement des Landes
+4918,Bacqueville,,Official,,1999.0,"Haute-Normandie, France",H6,395.0,87.0,,49.326472,1.355106,,Departement de l'Eure
+16722,Mont Dieu,,Official,,1994.0,"Champagne-Ardenne, France","Iron, ungrouped",360000.0,81.0,,49.55,4.86667,,Departement des Ardennes
+11874,Henvic,,Official,,1991.0,"Bretagne, France",L5,19.0,73.0,,48.65,-3.91667,,Departement du Finistere
+23720,Sainte Rose,,Official,,1983.0,"Réunion, France",H3.6,430.0,65.0,,-21.19222,55.68639,,Reunion
+5120,Bouvante,,Official,,1978.0,"Rhone-Alpes, France",Eucrite-mmict,8300.0,57.0,,44.92222,5.26778,,Departement de la Drome
+5357,Chitenay,,Official,Y,1978.0,"Centre, France",L6,4000.0,56.0,,47.473114,1.357289,,Departement du Loir-et-Cher
+23096,Saint-Aubin,,Official,,1968.0,"Champagne-Ardenne, France","Iron, IIIAB",472000.0,87.0,,48.48333,3.58333,,Departement de l'Aube
+23102,Saint-Séverin,,Official,Y,1966.0,"Poitou-Charentes, France",LL6,271000.0,40.0,,45.3,0.23333,,Departement de la Dordogne
+10956,Granes,,Official,Y,1964.0,"Languedoc-Roussillon, France",L6,9000.0,,,42.9,2.25,,Departement de l'Aude
+23099,Ste. Marguerite,,Official,Y,1962.0,"Nord-Pas-de-Calais, France",H4,4960.0,24.0,,50.76667,3.0,,Departement du Nord
+23097,St.-Chinian,,Official,Y,1959.0,"Languedoc-Roussillon, France",L6,134.3,19.0,,43.43333,2.95,,Departement de l'Herault
+16627,Mezel,,Official,Y,1949.0,"Auvergne, France",L6,1300.0,,,45.76667,3.25,,Departement du Puy-de-Dome
+10092,Ferrette,,Doubtful,Y,1947.0,"Alsace, France",Doubtful stone,4300.0,,,47.5,7.31667,,Departement du Haut-Rhin
+16922,Nassirah,,Official,Y,1936.0,"New Caledonia, France",H4,347.0,,,-21.73333,165.9,,La Foa
+16727,Montferré,,Official,Y,1923.0,"Languedoc-Roussillon, France",H5,149000.0,51.0,,43.39056,1.9625,,Departement de l'Aude
+23101,Saint-Sauveur,,Official,Y,1914.0,"Midi-Pyrenees, France",EH5,14000.0,,,43.73333,1.38333,,Departement de la Haute-Garonne
+12283,Kermichel,,Official,,1911.0,"Bretagne, France",L6,3000.0,,,47.65,-2.76667,,Departement du Morbihan
+12456,Lancon,,Official,Y,1897.0,"Provence-Alpes-Cote d'Azur, France",H6,7000.0,,,43.75,5.11667,,Departement des Bouches-du-Rhone
+23087,St. Germain-du-Pinel,,Official,Y,1890.0,"Bretagne, France",H6,4000.0,,,48.01667,-1.15,,Departement d'Ille-et-Vilaine
+24182,Villedieu,,Official,,1890.0,"Bourgogne, France",H4,14000.0,,,47.91667,4.35,,Departement de l'Aube
+11178,Grazac,,Pseudo,Y,1885.0,"Auvergne, France",Pseudometeorite,,,,45.18333,4.28333,,Departement de la Haute-Loire
+23081,St. Caprais-de-Quinsac,,Official,Y,1883.0,"Aquitaine, France",L6,360.0,,,44.75,0.05,,Departement de la Gironde
+12392,La Bécasse,,Official,Y,1879.0,"Centre, France",L6,2800.0,,,47.08333,1.75,,Departement de l'Indre
+16747,Mornans,,Official,Y,1875.0,"Rhone-Alpes, France",H5,1300.0,,,44.6,5.13333,,Departement de la Drome
+12282,Kerilis,,Official,Y,1874.0,"Bretagne, France",H5,5000.0,,,48.4,-3.3,,Departement des Cotes-d'Armor
+12455,Lancé,,Official,Y,1872.0,"Centre, France",CO3.5,51700.0,,,47.7,1.06667,,Departement du Loir-et-Cher
+12408,Laborel,,Official,Y,1871.0,"Rhone-Alpes, France",H5,3833.0,,,44.28333,5.58333,,Departement des Hautes-Alpes
+12284,Kernouve,,Official,Y,1869.0,"Bretagne, France",H6,80000.0,,,48.11667,-3.08333,,Departement du Morbihan
+18030,Ornans,,Official,Y,1868.0,"Franche-Comté, France",CO3.4,6000.0,,,47.11667,6.15,,Departement du Doubs
+23188,Sauguis,,Official,Y,1868.0,"Aquitaine, France",L6,4000.0,,,43.15,-0.85,,Departement des Pyrenees-Atlantiques
+23092,St. Mesmin,,Official,Y,1866.0,"Champagne-Ardenne, France",LL6,8300.0,,,48.45,3.93333,,Departement de l'Aube
+18026,Orgueil,,Official,Y,1864.0,"Midi-Pyrenees, France",CI1,14000.0,,,43.88333,1.38333,,Departement du Tarn-et-Garonne
+23663,Sologne,,Discredited,Y,1860.0,"Centre, France",H5,54.0,85.0,,47.36667,1.73333,,Departement du Loir-et-Cher
+4903,Ausson,,Official,Y,1858.0,"Midi-Pyrenees, France",L5,50000.0,,,43.08333,0.58333,,Departement de la Haute-Garonne
+12769,Les Ormes,,Official,Y,1857.0,"Bourgogne, France",L6,125.0,,,48.35,3.25,,Departement de l'Yonne
+5034,Beuste,,Official,Y,1856.0,"Aquitaine, France",L5,1820.0,,,43.21667,-0.23333,,Departement des Pyrenees-Atlantiques
+22363,Quincay,,Official,Y,1851.0,"Poitou-Charentes, France",L6,65.0,,,46.6,0.25,,Departement de la Vienne
+15429,Marmande,,Official,Y,1848.0,"Aquitaine, France",L5,3000.0,,,44.5,0.15,,Departement du Lot-et-Garonne
+12748,Le Pressoir,,Official,Y,1845.0,"Centre, France",H5,3000.0,,,47.16667,0.43333,,Departement d'Indre-et-Loire
+12749,Le Teilleul,,Official,Y,1845.0,"Basse-Normandie, France",Howardite,780.0,,,48.53333,-0.86667,,Departement de la Manche
+10078,Favars,,Official,Y,1844.0,"Midi-Pyrenees, France",H5,1500.0,,,44.38333,2.81667,,Departement de l'Aveyron
+4900,Aumieres,,Official,Y,1842.0,"Languedoc-Roussillon, France",L6,2000.0,,,44.292131,3.223247,,Departement de la Lozere
+5332,Château-Renard,,Official,Y,1841.0,"Centre, France",L6,30000.0,,,47.93333,2.91667,,Departement du Loiret
+23082,St. Christophe-la-Chartreuse,,Official,Y,1841.0,"Pays de la Loire, France",L6,5500.0,,,46.95,-1.5,,Departement de la Vendee
+16729,Montlivault,,Official,Y,1838.0,"Centre, France",L6,500.0,,,47.63333,1.58333,,Departement du Loir-et-Cher
+10051,Esnandes,,Official,Y,1837.0,"Poitou-Charentes, France",L6,1500.0,,,46.25,-1.1,,Departement de la Charente-Maritime
+4893,Aubres,,Official,Y,1836.0,"Rhone-Alpes, France",Aubrite,800.0,,,44.38333,5.16667,,Departement de la Drome
+15438,Mascombes,,Official,Y,1836.0,"Limousin, France",L6,1000.0,,,45.36667,1.86667,,Departement de la Correze
+23605,Simonod,,Doubtful,Y,1835.0,"Rhone-Alpes, France",Doubtful chondrite,1100.0,,,46.08333,5.33333,,Departement de l'Ain
+24191,Vouillé,,Official,Y,1831.0,"Poitou-Charentes, France",L6,20000.0,,,46.63333,0.16667,,Departement de la Vienne
+12393,La Caille,,Official,,1828.0,"Provence-Alpes-Cote d'Azur, France","Iron, ungrouped",626000.0,,,43.73333,6.78333,,Departement des Alpes-Maritimes
+11205,Groslée,,Pseudo,,1827.0,"Rhone-Alpes, France",Pseudometeorite,52.0,,,45.7,5.61667,,Departement de l'Isere
+10846,Galapian,,Official,Y,1826.0,"Aquitaine, France",H6,132.7,,,44.3,0.4,,Departement du Lot-et-Garonne
+2301,Angers,,Official,Y,1822.0,"Pays de la Loire, France",L6,1007.0,,,47.46667,-0.55,,Departement de Maine-et-Loire
+5383,Clohars,,Official,Y,1822.0,France,L4,48.6,,,47.89,-4.06,Coordinates approximate,Departement du Finistere
+10041,Épinal,,Official,Y,1822.0,"Lorraine, France",H5,277.0,,,48.154597,6.588658,,Departement des Vosges
+12214,Juvinas,,Official,Y,1821.0,"Rhone-Alpes, France",Eucrite-mmict,91000.0,,,44.71667,4.3,,Departement de l'Ardeche
+12202,Jonzac,,Official,Y,1819.0,"Poitou-Charentes, France",Eucrite-mmict,5000.0,,,45.43333,-0.45,,Departement de la Charente-Maritime
+5331,Chassigny,,Official,Y,1815.0,"Champagne-Ardenne, France",Martian (chassignite),4000.0,,,47.71667,5.381389,,Departement de la Haute-Marne
+392,Agen,,Official,Y,1814.0,"Aquitaine, France",H5,30000.0,,,44.427176,0.498226,,Departement du Lot-et-Garonne
+5325,Chantonnay,,Official,Y,1812.0,"Centre, France",L6,31500.0,,,46.670486,-1.093161,,Departement de la Vendee
+24036,Toulouse,,Official,Y,1812.0,"Midi-Pyrenees, France",H6,1030.0,,,43.823815,1.156998,,Departement du Tarn-et-Garonne
+5329,Charsonville,,Official,Y,1810.0,"Centre, France",H6,27000.0,,,47.922661,1.584219,,Departement du Loiret
+448,Alais,,Official,Y,1806.0,"Languedoc-Roussillon, France",CI1,6000.0,,,44.057056,4.184386,,Departement du Gard
+2345,Asco,,Official,Y,1805.0,"Corse, France",H6,41.0,,,42.45,9.03333,,Departement de la Haute-Corse
+2320,Apt,,Official,Y,1803.0,"Provence-Alpes-Cote d'Azur, France",L6,3200.0,,,43.889642,5.391494,,Departement du Vaucluse
+12434,L'Aigle,,Official,Y,1803.0,"Basse-Normandie, France",L6,37000.0,,,48.76667,0.63333,,Departement de l'Orne
+71138,Saint-Ouen-en-Champagne,,Official,Yp,1799.0,"Pays de la Loire, France",H5,4600.0,109.0,,47.96417,-0.16111,,Departement de la Sarthe
+23111,Salles,,Official,Y,1798.0,"Rhone-Alpes, France",L5,9000.0,,,46.05,4.63333,,Departement du Rhone
+4942,Barbotan,,Official,Y,1790.0,"Aquitaine, France",H5,6400.0,,,43.95,-0.05,,Departement du Gers
+425,Aire-sur-la-Lys,,Official,Y,1769.0,"Nord-Pas-de-Calais, France",Unknown,6800.0,,,50.609061,2.486308,,Departement du Pas-de-Calais
+14724,Lucé,,Official,Y,1768.0,"Pays de la Loire, France",L6,3500.0,,,47.85,0.48333,,Departement de la Sarthe
+14757,Luponnas,,Official,Y,1753.0,"Rhone-Alpes, France",H3-5,14000.0,,,46.21667,5.0,,Departement de l'Ain
+16970,Nicorps,,Official,Y,1750.0,"Basse-Normandie, France",Stone-uncl,,,,49.03333,-1.43333,,Departement de la Manche
+5280,Carpentras,,Doubtful,Y,1738.0,"Provence-Alpes-Cote d'Azur, France",Doubtful meteorite,,,,44.05,5.05,,Departement du Vaucluse
+16805,Mount Vaisi,,Official,Y,1637.0,"Provence-Alpes-Cote d'Azur, France",Stone-uncl,17000.0,,,44.08333,6.86667,,Departement des Alpes-Maritimes
+18892,Provence,,Doubtful,,1627.0,"Provence-Alpes-Cote d'Azur, France",Doubtful meteorite,27000.0,,,43.5,6.0,,Departement du Var
+14653,Limousin,,Doubtful,Y,1540.0,"Limousin, France",Doubtful meteorite,,,,45.6,1.5,,Departement de la Haute-Vienne
+10039,Ensisheim,,Official,Y,1492.0,"Alsace, France",LL6,127000.0,,,47.852806,7.376111,,Departement du Haut-Rhin
+5444,Cormeilles,,Pseudo,,,"Ile-del-France, France",Pseudometeorite,,,,48.98333,2.21667,,Departement du Val-d'Oise
+12460,Langeac,,Pseudo,Y,,"Auvergne, France",Pseudometeorite,,,,45.1,3.51667,,Departement de la Haute-Loire
