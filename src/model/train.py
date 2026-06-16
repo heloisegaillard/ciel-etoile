@@ -70,7 +70,7 @@ params = {
 }
 
 # Entraînement avec tracking MLflow
-mlflow.set_experiment("darksky-travel-retards")
+mlflow.set_experiment("aeroplan-retards")
 
 with mlflow.start_run():
     model = XGBClassifier(**params)
