@@ -3,6 +3,7 @@ import requests
 import os
 import datetime
 from dotenv import load_dotenv
+from logic import ETATS_FIPS, heure_vers_hhmm, construire_payload, niveau_risque
 
 load_dotenv()
 
@@ -23,14 +24,8 @@ st.markdown(
     "avant de confirmer la réservation auprès du client."
 )
 
-# Dictionnaires de correspondance pour des champs plus lisibles côté conseiller
-ETATS_FIPS = {
-    "Californie": 6,
-    "New York": 36,
-    "Texas": 48,
-    "Floride": 12,
-    "Illinois": 17,
-}
+
+
 
 with st.form("formulaire_vol"):
     col1, col2 = st.columns(2)
@@ -56,8 +51,9 @@ with st.form("formulaire_vol"):
             value=datetime.time(11, 30),
         )
         # Conversion au format HHMM attendu par le modèle
-        heure_depart = heure_depart_input.hour * 100 + heure_depart_input.minute
-        heure_arrivee = heure_arrivee_input.hour * 100 + heure_arrivee_input.minute
+
+        heure_depart = heure_vers_hhmm(heure_depart_input.hour, heure_depart_input.minute)
+        heure_arrivee = heure_vers_hhmm(heure_arrivee_input.hour, heure_arrivee_input.minute)
         distance = st.number_input("Distance du vol (en miles)", min_value=0, value=1500, step=1)
 
     with col2:
@@ -73,21 +69,10 @@ with st.form("formulaire_vol"):
     submitted = st.form_submit_button("Vérifier le risque de retard")
 
 if submitted:
-    payload = {
-        "MONTH": mois,
-        "AIRLINE_ID": 19805,
-        "ORIGIN_STATE_FIPS": ETATS_FIPS[origine],
-        "DEST_STATE_FIPS": ETATS_FIPS[destination],
-        "DEST_WAC": 22,
-        "CRS_DEP_TIME": heure_depart,
-        "TAXI_OUT": float(taxi_out),
-        "TAXI_IN": float(taxi_in),
-        "CRS_ARR_TIME": heure_arrivee,
-        "CRS_ELAPSED_TIME": float(duree_vol),
-        "FLIGHTS": 1.0,
-        "DISTANCE": float(distance),
-        "UNIQUE_CARRIER_ENCODED": compagnie_encoded,
-    }
+    payload = construire_payload(
+        mois, origine, destination, heure_depart, heure_arrivee,
+        taxi_out, taxi_in, duree_vol, distance, compagnie_encoded
+    )
 
 
     try:
@@ -102,9 +87,10 @@ if submitted:
 
         st.divider()
 
-        if proba < 0.30:
+        niveau = niveau_risque(proba)
+        if niveau == "faible":
             st.success(f"🟢 Risque faible — {proba:.0%} de probabilité de retard")
-        elif proba < 0.55:
+        elif niveau == "modere":
             st.warning(f"🟠 Risque modéré — {proba:.0%} de probabilité de retard")
         else:
             st.error(f"🔴 Risque élevé — {proba:.0%} de probabilité de retard")
