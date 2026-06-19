@@ -27,3 +27,19 @@ jobs:
       - name: Lancement des tests de la logique métier
         run: |
           pytest tests/test_app_logic.py -v
+
+  build-package:
+    runs-on: ubuntu-latest
+    needs: test-app
+
+    steps:
+      - name: Récupération du code
+        uses: actions/checkout@v3
+
+      - name: Construction de l'image Docker
+        run: |
+          docker build -t aeroplan-app .
+
+      - name: Vérification de l'image construite
+        run: |
+          docker images aeroplan-app
