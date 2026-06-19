@@ -6,7 +6,7 @@ API_KEY = "darksky-secret-key"
 
 st.set_page_config(page_title="AeroPlan Voyages — Vérification de retard", page_icon="✈️")
 
-st.title("AeroPlan Voyages")
+st.title(" AeroPlan Voyages")
 st.subheader("Vérification du risque de retard avant réservation")
 
 st.markdown(
