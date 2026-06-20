@@ -1,4 +1,4 @@
-name: CI — DarkSky Travel Model
+name: CI — AeroPlan Voyages
 
 on:
   push:
